@@ -1,0 +1,9 @@
+2023/12/23-07:41:38.894 97ea Reusing MANIFEST /home/devdragon/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/23-07:41:38.894 97ea Recovering log #10
+2023/12/23-07:41:39.068 97ea Reusing old log /home/devdragon/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000010.log 
+2023/12/23-07:59:07.641 97ea Compacting 1@1 + 1@2 files
+2023/12/23-07:59:07.833 97ea Generated table #13@1: 1007 keys, 235318 bytes
+2023/12/23-07:59:07.833 97ea Compacted 1@1 + 1@2 files => 235318 bytes
+2023/12/23-07:59:07.981 97ea compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/23-07:59:07.981 97ea Delete type=2 #11
+2023/12/23-07:59:07.981 97ea Delete type=2 #9
