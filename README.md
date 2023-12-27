@@ -1,3 +1,4 @@
 # Mi configuración de Qtile
 
-![[/qtile/img/configuration.png]]
+![Alt text](qtile/img/configuration.png)
+
