@@ -1,2 +1,2 @@
-# space_files
- space_files
+# Mi configuración de Qtile
+ 
