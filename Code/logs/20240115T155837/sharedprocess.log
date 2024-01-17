@@ -1,0 +1,327 @@
+2024-01-15 15:58:56.665 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:58:56.666 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:58:56.688 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:58:56.688 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:58:56.989 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:58:56.989 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:58:57.094 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:58:57.094 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:58:57.496 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:58:57.497 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:58:57.925 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:58:57.925 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:58:58.282 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:58:58.286 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:58:58.287 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:58:58.288 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:58:58.288 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:58:58.289 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:58:58.290 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:58:58.290 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:58:58.290 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:58:58.290 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:58:58.290 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:58:58.291 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:58:58.745 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:58:58.749 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:59:00.247 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:59:00.247 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:59:00.252 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:59:00.252 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:59:00.256 [info] Deleted uninstalled extension from disk ms-vscode.vscode-typescript-next /home/devdragon/.vscode/extensions/ms-vscode.vscode-typescript-next-5.4.20240111
+2024-01-15 15:59:00.693 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:59:00.693 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:59:01.157 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:59:01.157 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:59:01.897 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:59:01.897 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:59:02.899 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2024-01-15 15:59:02.901 [info] Getting Manifest... tabnine.tabnine-vscode
+2024-01-15 15:59:02.902 [info] Getting Manifest... yzhang.markdown-all-in-one
+2024-01-15 15:59:02.923 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:59:02.924 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:59:03.089 [info] Installing extension: ms-vscode.vscode-typescript-next
+2024-01-15 15:59:03.106 [info] Installing extension: yzhang.markdown-all-in-one
+2024-01-15 15:59:03.115 [info] Installing extension: tabnine.tabnine-vscode
+2024-01-15 15:59:03.707 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:59:03.707 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:59:03.744 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:59:03.744 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:59:03.768 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:59:03.768 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:59:04.155 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:59:04.156 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:59:04.287 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:59:04.287 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:59:04.339 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:59:04.339 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:59:04.679 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:59:04.680 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:59:04.846 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:59:04.847 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:59:04.923 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 15:59:04.924 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 15:59:05.096 [error] Error while installing the extension: ms-vscode.vscode-typescript-next
+2024-01-15 15:59:05.100 [error] Failed to install extension. ms-vscode.vscode-typescript-next
+2024-01-15 15:59:05.100 [error] Download: net::ERR_NAME_NOT_RESOLVED
+    at d.download (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:81:16857)
+    at async te.x (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:121718)
+    at async te.h (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:119735)
+2024-01-15 15:59:05.102 [error] [uncaught exception in sharedProcess]: net::ERR_NAME_NOT_RESOLVED: Download: net::ERR_NAME_NOT_RESOLVED
+    at d.download (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:81:16857)
+    at async te.x (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:121718)
+    at async te.h (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:119735)
+2024-01-15 15:59:05.103 [error] Error while installing the extension: tabnine.tabnine-vscode
+2024-01-15 15:59:05.105 [error] Failed to install extension. tabnine.tabnine-vscode
+2024-01-15 15:59:05.106 [error] Download: net::ERR_NAME_NOT_RESOLVED
+    at d.download (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:81:16857)
+    at async te.x (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:121718)
+    at async te.h (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:119735)
+2024-01-15 15:59:05.106 [error] [uncaught exception in sharedProcess]: net::ERR_NAME_NOT_RESOLVED: Download: net::ERR_NAME_NOT_RESOLVED
+    at d.download (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:81:16857)
+    at async te.x (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:121718)
+    at async te.h (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:119735)
+2024-01-15 15:59:05.110 [error] Error while installing the extension: yzhang.markdown-all-in-one
+2024-01-15 15:59:05.112 [error] Failed to install extension. yzhang.markdown-all-in-one
+2024-01-15 15:59:05.112 [error] Download: net::ERR_NAME_NOT_RESOLVED
+    at d.download (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:81:16857)
+    at async te.x (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:121718)
+    at async te.h (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:119735)
+2024-01-15 15:59:05.113 [error] [uncaught exception in sharedProcess]: net::ERR_NAME_NOT_RESOLVED: Download: net::ERR_NAME_NOT_RESOLVED
+    at d.download (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:81:16857)
+    at async te.x (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:121718)
+    at async te.h (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:119735)
+2024-01-15 16:00:32.398 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:00:32.399 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:00:42.696 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:00:42.696 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:00:42.791 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:00:42.792 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:00:42.913 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:00:42.917 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:00:45.192 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:00:45.192 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:00:45.789 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2024-01-15 16:00:45.801 [info] Installing extension: ms-vscode.vscode-typescript-next
+2024-01-15 16:00:45.971 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:00:45.971 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:00:46.157 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:00:46.157 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:00:46.327 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:00:46.327 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:00:49.203 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.vscode-typescript-next
+2024-01-15 16:00:49.781 [info] Extracted extension to file:///home/devdragon/.vscode/extensions/ms-vscode.vscode-typescript-next-5.4.20240114: ms-vscode.vscode-typescript-next
+2024-01-15 16:00:49.865 [info] Renamed to /home/devdragon/.vscode/extensions/ms-vscode.vscode-typescript-next-5.4.20240114
+2024-01-15 16:00:49.866 [info] Extracting extension completed. ms-vscode.vscode-typescript-next
+2024-01-15 16:00:49.941 [info] Extension installed successfully: ms-vscode.vscode-typescript-next
+2024-01-15 16:00:49.944 [info] Marked extension as uninstalled ms-vscode.vscode-typescript-next-5.4.20240112
+2024-01-15 16:00:49.960 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/devdragon/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/devdragon/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-15 16:00:50.165 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:00:50.165 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:00.439 [info] Getting Manifest... yzhang.markdown-all-in-one
+2024-01-15 16:02:00.448 [info] Installing extension: yzhang.markdown-all-in-one
+2024-01-15 16:02:00.655 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:00.656 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:00.888 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:00.888 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:01.067 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:01.068 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:02.012 [warning] Extension signature verification failed with error 'UnknownError': yzhang.markdown-all-in-one
+2024-01-15 16:02:02.107 [info] Extracted extension to file:///home/devdragon/.vscode/extensions/yzhang.markdown-all-in-one-3.6.2: yzhang.markdown-all-in-one
+2024-01-15 16:02:02.166 [info] Renamed to /home/devdragon/.vscode/extensions/yzhang.markdown-all-in-one-3.6.2
+2024-01-15 16:02:02.170 [info] Extracting extension completed. yzhang.markdown-all-in-one
+2024-01-15 16:02:02.252 [info] Extension installed successfully: yzhang.markdown-all-in-one
+2024-01-15 16:02:02.270 [info] Marked extension as uninstalled yzhang.markdown-all-in-one-3.6.1
+2024-01-15 16:02:02.287 [info] Getting Manifest... tabnine.tabnine-vscode
+2024-01-15 16:02:02.297 [info] Installing extension: tabnine.tabnine-vscode
+2024-01-15 16:02:02.539 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:02.540 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:02.678 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:02.678 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:02.850 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:02.850 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:03.009 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:03.009 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:03.921 [warning] Extension signature verification failed with error 'UnknownError': tabnine.tabnine-vscode
+2024-01-15 16:02:04.112 [info] Extracted extension to file:///home/devdragon/.vscode/extensions/tabnine.tabnine-vscode-3.60.0: tabnine.tabnine-vscode
+2024-01-15 16:02:04.171 [info] Renamed to /home/devdragon/.vscode/extensions/tabnine.tabnine-vscode-3.60.0
+2024-01-15 16:02:04.173 [info] Extracting extension completed. tabnine.tabnine-vscode
+2024-01-15 16:02:04.247 [info] Extension installed successfully: tabnine.tabnine-vscode
+2024-01-15 16:02:04.254 [info] Marked extension as uninstalled tabnine.tabnine-vscode-3.57.0
+2024-01-15 16:02:04.268 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/devdragon/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/devdragon/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-15 16:02:04.471 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:04.471 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:08.437 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:08.438 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:08.519 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:08.519 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:08.595 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:08.595 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:09.294 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:09.294 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:09.767 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:09.767 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:10.392 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:10.392 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:10.449 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:10.449 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:11.021 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:11.022 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:11.738 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:11.739 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:11.786 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:11.793 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:12.179 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:12.179 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:12.923 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:12.924 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:13.213 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:13.213 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:13.855 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:13.859 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:14.454 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:14.455 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:14.510 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:14.510 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:15.953 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:15.953 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:02:22.096 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:02:22.096 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:03:18.209 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:03:18.210 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:03:52.440 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:03:52.441 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:07:14.804 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:07:14.804 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:12:14.952 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:12:14.953 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:17:15.106 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:17:15.106 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:18:53.556 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:18:53.556 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:19:42.220 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:19:42.221 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:22:15.289 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:22:15.290 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:23:16.275 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:23:16.275 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:23:30.091 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:23:30.091 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:27:15.749 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:27:15.749 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:27:18.544 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:27:18.544 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:28:28.944 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:28:28.944 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:28:54.944 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:28:54.944 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:29:14.157 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:29:14.157 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:29:30.939 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:29:30.939 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:31:04.960 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:31:04.961 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:32:16.003 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:32:16.003 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:32:55.153 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:32:55.154 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:35:15.783 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:35:15.783 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:35:50.335 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:35:50.335 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:36:03.095 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:36:03.095 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:37:16.218 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:37:16.218 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:37:41.093 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:37:41.093 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:42:16.417 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:42:16.417 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:43:45.646 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:43:45.647 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:44:00.396 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:44:00.396 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:44:47.917 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:44:47.918 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:46:59.024 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:46:59.024 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:47:16.647 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:47:16.647 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:48:13.330 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:48:13.330 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:49:54.296 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:49:54.296 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:52:16.838 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:52:16.838 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:53:52.557 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:53:52.557 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:54:06.651 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:54:06.651 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:55:02.011 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:55:02.011 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:56:40.080 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:56:40.080 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:57:16.996 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:57:16.997 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:57:48.663 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:57:48.664 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:58:02.861 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:58:02.861 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 16:59:40.390 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 16:59:40.391 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 17:01:55.616 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 17:01:55.618 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 17:01:58.647 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 17:01:58.647 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 17:02:17.179 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 17:02:17.179 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 17:02:55.678 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 17:02:55.678 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 17:03:08.147 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 17:03:08.147 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 17:03:29.671 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 17:03:29.671 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 17:07:17.305 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 17:07:17.306 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 17:07:33.584 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 17:07:33.584 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 17:08:03.049 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 17:08:03.049 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 17:10:46.896 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 17:10:46.898 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 17:12:17.490 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 17:12:17.490 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 17:15:47.863 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 17:15:47.863 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 17:17:17.630 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 17:17:17.630 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 17:17:29.125 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 17:17:29.126 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 17:18:43.481 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 17:18:43.481 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 17:21:19.749 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 17:21:19.750 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 17:22:17.802 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 17:22:17.803 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 17:23:22.740 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 17:23:22.740 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 17:27:18.251 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 17:27:18.251 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 17:27:32.097 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 17:27:32.098 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 17:28:56.964 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 17:28:56.964 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-15 17:30:21.625 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-15 17:30:21.626 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.

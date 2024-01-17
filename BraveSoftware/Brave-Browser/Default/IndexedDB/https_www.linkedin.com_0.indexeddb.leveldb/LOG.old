@@ -1,0 +1,6 @@
+2024/01/02-17:34:47.067 24ede Creating DB /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb since it was missing.
+2024/01/02-17:34:47.431 24ede Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/02-21:35:54.440 24edf Level-0 table #5: started
+2024/01/02-21:35:54.489 24edf Level-0 table #5: 21409 bytes OK
+2024/01/02-21:35:54.581 24edf Delete type=0 #3
+2024/01/02-21:35:54.582 24edf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

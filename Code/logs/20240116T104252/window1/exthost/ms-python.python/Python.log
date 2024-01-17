@@ -1,0 +1,92 @@
+2024-01-16 10:43:30.078 [info] El experimento \"pythonaa\" está activo
+2024-01-16 10:43:30.078 [info] El experimento \"pythonRecommendTensorboardExtcf\" está activo
+2024-01-16 10:43:30.078 [info] El experimento \"pythonREPLSmartSend\" está activo
+2024-01-16 10:43:30.078 [info] El experimento \"pythonSurveyNotificationcf\" está activo
+2024-01-16 10:43:30.078 [info] El experimento \"pythonTerminalEnvVarActivationcf\" está activo
+2024-01-16 10:43:30.078 [info] El experimento \"pythonTestAdapter\" está activo
+2024-01-16 10:43:30.078 [info] Default formatter is set to null for workspace /home/devdragon/workspace/python/FastApliLearn
+2024-01-16 10:43:30.078 [info] Test server listening.
+2024-01-16 10:43:30.078 [info] > conda info --json
+2024-01-16 10:43:30.078 [info] Ruta de acceso del intérprete de Python: ./evfs/bin/python
+2024-01-16 10:43:30.078 [info] Send text to terminal: printenv > "/tmp/tmp-745316FBKTcpS334D.txt"
+2024-01-16 10:43:34.311 [info] Found: /bin/python --> /bin/python3.11
+2024-01-16 10:43:34.596 [info] Found: /bin/python3 --> /bin/python3.11
+2024-01-16 10:43:34.627 [info] Found: /bin/python3.11 --> /bin/python3.11
+2024-01-16 10:43:35.858 [info] > ./evfs/bin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-16 10:43:35.980 [info] Found: /sbin/python --> /sbin/python3.11
+2024-01-16 10:43:36.112 [info] Found: /sbin/python3 --> /sbin/python3.11
+2024-01-16 10:43:36.115 [info] Found: /sbin/python3.11 --> /sbin/python3.11
+2024-01-16 10:43:36.621 [info] Found: /usr/bin/python --> /usr/bin/python3.11
+2024-01-16 10:43:36.626 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2024-01-16 10:43:36.626 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2024-01-16 10:43:37.634 [info] Iniciando el servidor de lenguaje Pylance.
+2024-01-16 10:43:37.737 [info] Found: /usr/sbin/python --> /usr/sbin/python3.11
+2024-01-16 10:43:37.742 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.11
+2024-01-16 10:43:37.743 [info] Found: /usr/sbin/python3.11 --> /usr/sbin/python3.11
+2024-01-16 10:43:37.816 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-16 10:43:37.873 [info] > /sbin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-16 10:43:38.449 [info] > /usr/bin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-16 10:43:38.486 [info] > /usr/sbin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-16 10:44:07.228 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 11:05:24.850 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 11:05:35.191 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 11:06:30.192 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 11:06:34.141 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 11:06:35.390 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 11:06:47.354 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 11:06:50.658 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 11:06:53.459 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 11:07:10.361 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 11:07:11.804 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 11:07:17.656 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 11:07:32.892 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 11:18:11.065 [info] El experimento \"pythonaa\" está activo
+2024-01-16 11:18:11.065 [info] El experimento \"pythonRecommendTensorboardExtcf\" está activo
+2024-01-16 11:18:11.065 [info] El experimento \"pythonREPLSmartSend\" está activo
+2024-01-16 11:18:11.065 [info] El experimento \"pythonSurveyNotificationcf\" está activo
+2024-01-16 11:18:11.065 [info] El experimento \"pythonTerminalEnvVarActivationcf\" está activo
+2024-01-16 11:18:11.065 [info] El experimento \"pythonTestAdapter\" está activo
+2024-01-16 11:18:11.065 [info] Default formatter is set to null for workspace /home/devdragon/workspace/python/FastApliLearn
+2024-01-16 11:18:11.066 [info] Test server listening.
+2024-01-16 11:18:11.068 [info] Ruta de acceso del intérprete de Python: ./evfs/bin/python
+2024-01-16 11:18:11.947 [info] Discover tests for workspace name: undefined - uri: /home/devdragon/.config/Code/User/settings.json
+2024-01-16 11:18:14.061 [info] Discover tests for workspace name: undefined - uri: /home/devdragon/.config/Code/User/settings.json
+2024-01-16 11:18:14.852 [info] Discover tests for workspace name: undefined - uri: /home/devdragon/.config/Code/User/settings.json
+2024-01-16 11:18:16.435 [info] Iniciando el servidor de lenguaje Pylance.
+2024-01-16 11:25:50.554 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 11:26:01.300 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 11:26:04.921 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 11:26:10.473 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 11:26:33.928 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 11:26:38.747 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 11:26:41.326 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 11:29:58.901 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 11:30:04.779 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 12:01:36.462 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 12:01:39.397 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 12:01:41.992 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 12:01:45.293 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 12:01:52.618 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 12:01:56.664 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 12:02:01.313 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 12:03:56.877 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 12:03:58.081 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 12:04:02.075 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 12:04:09.294 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 12:04:10.350 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 16:25:01.040 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/users/user_db.py
+2024-01-16 16:25:04.823 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/users/user_db.py
+2024-01-16 16:25:26.938 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/users/user_db.py
+2024-01-16 16:27:17.563 [info] Discover tests for workspace name: FastApliLearn - uri: /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-16 16:35:05.272 [info] Running installed packages checker:  /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python /home/devdragon/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/installed_check.py /home/devdragon/workspace/python/FastApliLearn/requirements.txt
+2024-01-16 16:35:05.273 [info] > ./evfs/bin/python ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/installed_check.py ./requirements.txt
+2024-01-16 16:37:04.541 [info] Running installed packages checker:  /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python /home/devdragon/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/installed_check.py /home/devdragon/workspace/python/FastApliLearn/requirements.txt
+2024-01-16 16:37:04.541 [info] > ./evfs/bin/python ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/installed_check.py ./requirements.txt
+2024-01-16 16:37:06.276 [info] Running installed packages checker:  /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python /home/devdragon/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/installed_check.py /home/devdragon/workspace/python/FastApliLearn/requirements.txt
+2024-01-16 16:37:06.276 [info] > ./evfs/bin/python ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/installed_check.py ./requirements.txt
+2024-01-16 16:37:12.945 [info] Running installed packages checker:  /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python /home/devdragon/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/installed_check.py /home/devdragon/workspace/python/FastApliLearn/requirements.txt
+2024-01-16 16:37:12.945 [info] > ./evfs/bin/python ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/installed_check.py ./requirements.txt
+2024-01-16 16:37:17.505 [info] Running installed packages checker:  /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python /home/devdragon/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/installed_check.py /home/devdragon/workspace/python/FastApliLearn/requirements.txt
+2024-01-16 16:37:17.505 [info] > ./evfs/bin/python ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/installed_check.py ./requirements.txt
+2024-01-16 16:37:20.635 [info] Running installed packages checker:  /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python /home/devdragon/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/installed_check.py /home/devdragon/workspace/python/FastApliLearn/requirements.txt
+2024-01-16 16:37:20.635 [info] > ./evfs/bin/python ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/installed_check.py ./requirements.txt

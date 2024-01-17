@@ -1,0 +1,14 @@
+#History lists
+
+[shortcuts]
+"Home[path]/home/devdragon"
+"Desktop[path]/home/devdragon/Desktop"
+"Collections[path]/home/devdragon/.local/share/geeqie/collections"
+
+[path_list]
+"/home/devdragon"
+
+[image_list]
+"/home/devdragon/2024-01-06-100050_1199x546_scrot.png"
+
+#end

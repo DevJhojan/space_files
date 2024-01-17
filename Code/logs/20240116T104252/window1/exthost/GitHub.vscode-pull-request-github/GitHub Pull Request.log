@@ -1,0 +1,32 @@
+2024-01-16 10:43:34.683 [warning] /home/devdragon/.ssh/config: ENOENT: no such file or directory, open '/home/devdragon/.ssh/config'
+2024-01-16 10:43:34.683 [info] Activation> Extension version: 0.78.1
+2024-01-16 10:43:35.761 [info] Looking for git repository
+2024-01-16 10:43:35.761 [info] Found 0 repositories during activation
+2024-01-16 10:43:35.761 [info] Git repository found, initializing review manager and pr tree view.
+2024-01-16 10:43:35.769 [info] Registering git provider
+2024-01-16 10:43:36.296 [info] Git initialization state changed: state=initialized
+2024-01-16 10:43:36.296 [info] Review+0> Validate state in progress
+2024-01-16 10:43:36.296 [info] Review+0> Validating state...
+2024-01-16 10:43:36.531 [info] Found GitHub remote for folder /home/devdragon/workspace/python/FastApliLearn
+2024-01-16 10:43:36.597 [info] Repo state for file:///home/devdragon/workspace/python/FastApliLearn changed.
+2024-01-16 10:43:36.597 [info] Repo file:///home/devdragon/workspace/python/FastApliLearn has already been setup.
+2024-01-16 10:43:37.475 [info] Trying to use globalState for assignableUsers.
+2024-01-16 10:43:37.588 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-01-16 10:43:38.312 [info] Using globalState assignableUsers for 1.
+2024-01-16 10:43:38.661 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-01-16 11:18:14.871 [warning] /home/devdragon/.ssh/config: ENOENT: no such file or directory, open '/home/devdragon/.ssh/config'
+2024-01-16 11:18:14.871 [info] Activation> Extension version: 0.78.1
+2024-01-16 11:18:15.233 [info] Looking for git repository
+2024-01-16 11:18:15.233 [info] Found 0 repositories during activation
+2024-01-16 11:18:15.233 [info] Git repository found, initializing review manager and pr tree view.
+2024-01-16 11:18:15.237 [info] Registering git provider
+2024-01-16 11:18:15.839 [info] Git initialization state changed: state=initialized
+2024-01-16 11:18:15.839 [info] Review+0> Validate state in progress
+2024-01-16 11:18:15.839 [info] Review+0> Validating state...
+2024-01-16 11:18:15.901 [info] Repo state for file:///home/devdragon/workspace/python/FastApliLearn changed.
+2024-01-16 11:18:15.901 [info] Repo file:///home/devdragon/workspace/python/FastApliLearn has already been setup.
+2024-01-16 11:18:15.907 [info] Found GitHub remote for folder /home/devdragon/workspace/python/FastApliLearn
+2024-01-16 11:18:16.619 [info] Trying to use globalState for assignableUsers.
+2024-01-16 11:18:16.774 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-01-16 11:18:16.803 [info] Using globalState assignableUsers for 1.
+2024-01-16 11:18:17.386 [info] Review+0> No matching pull request metadata found on GitHub for current branch main

@@ -1,0 +1,18 @@
+[Info - 4:02:17 PM] Starting workspace configuration loading.
+[Info - 4:02:17 PM] 1 workspace folder(s) detected.
+[Info - 4:02:17 PM] Loading configuration of "FastApliLearn" workspace folder.
+[Info - 4:02:17 PM] Loading extension configuration
+[Info - 4:02:17 PM] Loading extension configuration from VS Code settings.
+[Info - 4:02:17 PM] Loading dependencies config from package.json.
+[Info - 4:02:17 PM] Found: /home/devdragon/workspace/python/FastApliLearn/package.json
+[Info - 4:02:17 PM] Found: /home/devdragon/workspace/python/package.json
+[Info - 4:02:17 PM] Found: /home/devdragon/workspace/package.json
+[Info - 4:02:17 PM] Found: /home/devdragon/package.json
+[Info - 4:02:17 PM] Found: /home/package.json
+[Info - 4:02:18 PM] Loading format configuration
+[Info - 4:02:18 PM] Loading schematics.
+[Info - 4:02:18 PM] 0 schematic(s) loaded.
+[Warning - 4:02:18 PM] No angular.json found
+[Info - 4:02:18 PM] Configuration of all workspace folders is now ready. Duration: 1210ms
+[Info - 4:02:18 PM] Reloading format configuration because VS Code settings changed.
+[Info - 5:02:03 PM] Reloading format configuration because VS Code settings changed.

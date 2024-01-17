@@ -1,0 +1,186 @@
+2024-01-17 12:49:18.700 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:18.701 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:18.702 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:18.702 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:18.707 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:18.707 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:18.711 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:18.712 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:18.717 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:18.717 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:18.738 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:18.738 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:18.753 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:18.753 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:19.355 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:19.356 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:19.452 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:19.453 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:19.914 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:19.914 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:19.937 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:19.937 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:21.534 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:21.535 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:21.744 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:21.744 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:21.799 [info] Deleted uninstalled extension from disk tabnine.tabnine-vscode /home/devdragon/.vscode/extensions/tabnine.tabnine-vscode-3.60.0
+2024-01-17 12:49:23.102 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:23.102 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:23.529 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:23.529 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:23.544 [info] Deleted uninstalled extension from disk ms-vscode.vscode-typescript-next /home/devdragon/.vscode/extensions/ms-vscode.vscode-typescript-next-5.4.20240114
+2024-01-17 12:49:24.237 [info] Getting Manifest... angular.ng-template
+2024-01-17 12:49:24.240 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2024-01-17 12:49:24.242 [info] Getting Manifest... postman.postman-for-vscode
+2024-01-17 12:49:24.244 [info] Getting Manifest... tabnine.tabnine-vscode
+2024-01-17 12:49:24.246 [info] Getting Manifest... wallabyjs.console-ninja
+2024-01-17 12:49:24.302 [info] Installing extension: angular.ng-template
+2024-01-17 12:49:24.312 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2024-01-17 12:49:24.313 [info] Installing extension: tabnine.tabnine-vscode
+2024-01-17 12:49:24.320 [info] Installing extension: postman.postman-for-vscode
+2024-01-17 12:49:24.374 [info] Deleted uninstalled extension from disk wallabyjs.console-ninja /home/devdragon/.vscode/extensions/wallabyjs.console-ninja-1.0.272
+2024-01-17 12:49:24.392 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:24.392 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:24.731 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:24.731 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:24.738 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:24.738 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:24.857 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:24.858 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:24.871 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:24.871 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:24.979 [info] Deleted uninstalled extension from disk wallabyjs.quokka-vscode /home/devdragon/.vscode/extensions/wallabyjs.quokka-vscode-1.0.614
+2024-01-17 12:49:25.262 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:25.262 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:25.363 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:25.364 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:25.417 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:25.417 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:25.498 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:25.499 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:25.550 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:25.550 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:25.933 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:25.934 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:25.988 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:25.988 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:26.132 [info] Installing extension: wallabyjs.console-ninja
+2024-01-17 12:49:26.166 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:26.166 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:26.272 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:26.274 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:26.338 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:26.339 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:26.516 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:26.516 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:26.656 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:26.656 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:26.948 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:26.949 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:27.117 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:27.117 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:29.576 [warning] Extension signature verification failed with error 'UnknownError': tabnine.tabnine-vscode
+2024-01-17 12:49:29.577 [warning] Extension signature verification failed with error 'UnknownError': ms-ceintl.vscode-language-pack-es
+2024-01-17 12:49:29.929 [info] Extracted extension to file:///home/devdragon/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.85.2024011709: ms-ceintl.vscode-language-pack-es
+2024-01-17 12:49:29.946 [info] Extracted extension to file:///home/devdragon/.vscode/extensions/tabnine.tabnine-vscode-3.62.0: tabnine.tabnine-vscode
+2024-01-17 12:49:30.011 [warning] Extension signature verification failed with error 'UnknownError': angular.ng-template
+2024-01-17 12:49:30.408 [info] Renamed to /home/devdragon/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.85.2024011709
+2024-01-17 12:49:30.409 [info] Renamed to /home/devdragon/.vscode/extensions/tabnine.tabnine-vscode-3.62.0
+2024-01-17 12:49:30.413 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-es
+2024-01-17 12:49:30.414 [info] Extracting extension completed. tabnine.tabnine-vscode
+2024-01-17 12:49:31.048 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2024-01-17 12:49:31.094 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-es-1.85.2024011009
+2024-01-17 12:49:31.737 [info] Extension installed successfully: tabnine.tabnine-vscode
+2024-01-17 12:49:31.785 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:31.788 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:31.794 [info] Marked extension as uninstalled tabnine.tabnine-vscode-3.61.0
+2024-01-17 12:49:32.659 [warning] Extension signature verification failed with error 'UnknownError': wallabyjs.console-ninja
+2024-01-17 12:49:33.064 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:33.064 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:33.152 [info] Extracted extension to file:///home/devdragon/.vscode/extensions/angular.ng-template-17.1.0: angular.ng-template
+2024-01-17 12:49:33.358 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+2024-01-17 12:49:33.520 [info] Renamed to /home/devdragon/.vscode/extensions/angular.ng-template-17.1.0
+2024-01-17 12:49:33.538 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:33.538 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:33.561 [warning] Extension signature verification failed with error 'UnknownError': postman.postman-for-vscode
+2024-01-17 12:49:33.592 [info] Extracting extension completed. angular.ng-template
+2024-01-17 12:49:33.924 [info] Extension installed successfully: angular.ng-template
+2024-01-17 12:49:33.936 [info] Marked extension as uninstalled angular.ng-template-17.0.3
+2024-01-17 12:49:34.138 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:34.138 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:34.984 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:34.984 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:35.108 [info] Extracted extension to file:///home/devdragon/.vscode/extensions/wallabyjs.console-ninja-1.0.274: wallabyjs.console-ninja
+2024-01-17 12:49:35.462 [info] Renamed to /home/devdragon/.vscode/extensions/wallabyjs.console-ninja-1.0.274
+2024-01-17 12:49:35.467 [info] Extracting extension completed. wallabyjs.console-ninja
+2024-01-17 12:49:35.951 [info] Extension installed successfully: wallabyjs.console-ninja
+2024-01-17 12:49:35.957 [info] Marked extension as uninstalled wallabyjs.console-ninja-1.0.273
+2024-01-17 12:49:36.108 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:36.109 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:36.633 [info] Extracted extension to file:///home/devdragon/.vscode/extensions/postman.postman-for-vscode-0.18.0: postman.postman-for-vscode
+2024-01-17 12:49:37.390 [info] Renamed to /home/devdragon/.vscode/extensions/postman.postman-for-vscode-0.18.0
+2024-01-17 12:49:37.392 [info] Extracting extension completed. postman.postman-for-vscode
+2024-01-17 12:49:37.891 [info] Extension installed successfully: postman.postman-for-vscode
+2024-01-17 12:49:37.896 [info] Marked extension as uninstalled postman.postman-for-vscode-0.17.0
+2024-01-17 12:49:38.039 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:38.039 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:40.382 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:49:40.382 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:49:53.644 [error] [uncaught exception in sharedProcess]: Error del sistema (ENOENT: no such file or directory, scandir '/home/devdragon/.config/Code/clp/71223b4d30ca90871d988c94c44ee26e.es'): Error: ENOENT: no such file or directory, scandir '/home/devdragon/.config/Code/clp/71223b4d30ca90871d988c94c44ee26e.es'
+2024-01-17 12:50:00.487 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:00.487 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:50:00.499 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:00.500 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:50:00.512 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:00.513 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:50:02.380 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:02.381 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:50:04.957 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:04.961 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:50:05.118 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:05.120 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:50:05.252 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:05.305 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:50:05.324 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:05.324 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:50:05.429 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:05.429 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:50:05.916 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:05.916 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:50:06.025 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:06.026 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:50:06.832 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:06.835 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:50:07.317 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:07.318 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:50:07.602 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:07.602 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:50:08.045 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:08.045 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:50:08.393 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:08.394 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:50:08.407 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:08.407 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:50:08.738 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:08.738 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:50:09.016 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:09.017 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:50:09.534 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:09.535 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:50:11.734 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:11.735 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:50:13.396 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:13.396 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:50:16.808 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:50:16.808 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:51:20.345 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:51:20.346 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:52:33.187 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:52:33.188 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:55:08.593 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:55:08.594 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:55:17.446 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:55:17.447 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.
+2024-01-17 12:57:21.759 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.cwd.description.
+2024-01-17 12:57:21.759 [warning] [mypy-type-checker]: No se encontró un mensaje para la clave settings.ignorePatterns.description.

@@ -1,0 +1,21 @@
+2024/01/16-10:13:04.786 1102c Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/16-10:13:04.789 1102c Recovering log #336
+2024/01/16-10:13:04.802 1102c Reusing old log /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000336.log 
+2024/01/16-10:37:59.119 11023 Level-0 table #341: started
+2024/01/16-10:37:59.488 11023 Level-0 table #341: 1139889 bytes OK
+2024/01/16-10:37:59.667 11023 Delete type=0 #336
+2024/01/16-10:57:55.131 11023 Compacting 1@1 + 1@2 files
+2024/01/16-10:57:55.306 11023 Generated table #342@1: 800 keys, 44023 bytes
+2024/01/16-10:57:55.307 11023 Compacted 1@1 + 1@2 files => 44023 bytes
+2024/01/16-10:57:55.380 11023 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/16-10:57:55.380 11023 Delete type=2 #338
+2024/01/16-10:57:55.380 11023 Delete type=2 #341
+2024/01/16-11:50:28.737 11023 Level-0 table #344: started
+2024/01/16-11:50:29.135 11023 Level-0 table #344: 1343526 bytes OK
+2024/01/16-11:50:29.493 11023 Delete type=0 #340
+2024/01/16-11:52:53.074 11023 Compacting 1@1 + 1@2 files
+2024/01/16-11:52:53.212 11023 Generated table #345@1: 1083 keys, 53759 bytes
+2024/01/16-11:52:53.212 11023 Compacted 1@1 + 1@2 files => 53759 bytes
+2024/01/16-11:52:53.646 11023 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/16-11:52:53.646 11023 Delete type=2 #344
+2024/01/16-11:52:53.646 11023 Delete type=2 #342

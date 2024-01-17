@@ -1,0 +1,172 @@
+10:43:34 GMT-0500 (Colombia Standard Time) [INFO]: spawning binary with command: /home/devdragon/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.75.0/x86_64-unknown-linux-musl/TabNine args: --tls_config insecure=false --no-lsp=true --client=vscode --client-metadata clientVersion=1.85.1 pluginVersion=3.60.0 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-extension-kind=1 vscode-theme-name=Dark Red vscode-theme-kind=Dark vscode-machine-id=e59b11f8498651854345bd2ff491bcecd04acb309df1729fd283539cb51b9193 vscode-is-new-app-install=false vscode-session-id=75e3bcde-175d-44a4-88cf-0fdfd39634391705419778909 vscode-language=es vscode-app-name=Visual Studio Code vscode-beta-channel-enabled=false vscode-status-customization=unknown vscode-inline-api-enabled=true vscode-code-lens-enabled=true vscode-found-intellicode=false ide-restart-counter=0 
+
+10:43:34 GMT-0500 (Colombia Standard Time) [DEBUG]: capabilities resolved immediately 
+
+10:43:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:43:54 GMT-0500 (Colombia Standard Time) [ERROR]: Error: Binary request timed out. {"Features":{}} 
+
+10:43:54 GMT-0500 (Colombia Standard Time) [ERROR]: Error: Could not get enabled capabilities 
+
+10:43:55 GMT-0500 (Colombia Standard Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+10:43:56 GMT-0500 (Colombia Standard Time) [ERROR]: Error: Binary request timed out. {"Workspace":{"root_paths":["/home/devdragon/workspace/python/FastApliLearn"]}} 
+
+10:43:57 GMT-0500 (Colombia Standard Time) [ERROR]: Error: Binary request timed out. {"Event":{"name":"active_text_editor_changed","properties":{"isDirty":"false"}}} 
+
+10:43:58 GMT-0500 (Colombia Standard Time) [ERROR]: Error: Binary request timed out. {"Prefetch":{"filename":"/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py"}} 
+
+10:43:59 GMT-0500 (Colombia Standard Time) [ERROR]: Error: Binary request timed out. {"Event":{"name":"active_text_editor_changed","properties":{"isDirty":"false"}}} 
+
+10:44:00 GMT-0500 (Colombia Standard Time) [ERROR]: Error: Binary request timed out. {"Prefetch":{"filename":"/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py"}} 
+
+10:44:05 GMT-0500 (Colombia Standard Time) [ERROR]: Error: Binary request timed out. {"NotifyWorkspaceChanged":{"workspace_folders":["/home/devdragon/workspace/python/FastApliLearn"]}} 
+
+10:44:06 GMT-0500 (Colombia Standard Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+10:44:07 GMT-0500 (Colombia Standard Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+10:44:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:44:08 GMT-0500 (Colombia Standard Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+10:44:10 GMT-0500 (Colombia Standard Time) [ERROR]: Error: Binary request timed out. {"SetState":{"state_type":{"StatusShown":{"id":"see-tabnine-insights_2024-01-16 15:43:52.144111332 UTC","text":"See Tabnine Insights 💪","notification_type":"System","state":null}}}} 
+
+10:44:11 GMT-0500 (Colombia Standard Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+10:44:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:45:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:45:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:46:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:46:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:47:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:47:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:48:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:48:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:49:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:49:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:50:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:50:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:51:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:51:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:52:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:52:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:53:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:53:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:54:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:54:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:55:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:55:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:56:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:56:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:57:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:57:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:58:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:58:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:59:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+10:59:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:00:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:00:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:01:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:01:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:02:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:02:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:03:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:03:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:04:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:04:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:05:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:05:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:06:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:06:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:07:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:07:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:08:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:08:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:09:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:09:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:10:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:10:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:11:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:11:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:12:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:12:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:13:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:13:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:14:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:14:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:15:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:15:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:16:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:16:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:17:07 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:17:37 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+11:18:04 GMT-0500 (Colombia Standard Time) [WARN]: assistant is closing 
+

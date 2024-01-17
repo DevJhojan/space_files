@@ -1,0 +1,8 @@
+2024-01-16 10:43:22.898 [info] MongoDBService initializing...
+2024-01-16 10:43:23.138 [info] MongoDBService initialized {"extensionPath":"/home/devdragon/.vscode/extensions/mongodb.mongodb-vscode-1.4.0","connectionId":null,"hasConnectionString":false,"hasConnectionOptions":false}
+2024-01-16 10:44:31.930 [info] Changing CliServiceProvider active connection... {"currentConnectionId":null,"newConnectionId":"ed588d9e-ca96-43a5-8e6a-59bbbcfe65af","hasConnectionString":true,"hasConnectionOptions":true}
+2024-01-16 10:44:38.312 [info] CliServiceProvider active connection has changed: { connectionId: ed588d9e-ca96-43a5-8e6a-59bbbcfe65af }
+2024-01-16 11:18:11.543 [info] MongoDBService initializing...
+2024-01-16 11:18:12.082 [info] MongoDBService initialized {"extensionPath":"/home/devdragon/.vscode/extensions/mongodb.mongodb-vscode-1.4.0","connectionId":null,"hasConnectionString":false,"hasConnectionOptions":false}
+2024-01-16 11:20:43.364 [info] Changing CliServiceProvider active connection... {"currentConnectionId":null,"newConnectionId":"ed588d9e-ca96-43a5-8e6a-59bbbcfe65af","hasConnectionString":true,"hasConnectionOptions":true}
+2024-01-16 11:20:47.905 [info] CliServiceProvider active connection has changed: { connectionId: ed588d9e-ca96-43a5-8e6a-59bbbcfe65af }

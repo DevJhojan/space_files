@@ -1,0 +1,1166 @@
+2024-01-15 15:59:23.714 [info] Name: Mypy Type Checker
+2024-01-15 15:59:23.714 [info] Module: mypy
+2024-01-15 15:59:23.714 [info] Python extension loading
+2024-01-15 15:59:23.714 [info] Waiting for interpreter from python extension.
+2024-01-15 15:59:23.714 [info] Python extension loaded
+2024-01-15 15:59:23.714 [info] Server run command: /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python /home/devdragon/.vscode/extensions/ms-python.mypy-type-checker-2023.6.0/bundled/tool/lsp_server.py
+2024-01-15 15:59:23.714 [info] Server: Start requested.
+2024-01-15 15:59:31.417 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 15:59:31.419 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/devdragon/workspace/python/FastApliLearn",
+        "workspace": "file:///home/devdragon/workspace/python/FastApliLearn",
+        "args": [],
+        "severity": {
+            "error": "Error",
+            "note": "Information"
+        },
+        "path": [],
+        "ignorePatterns": [],
+        "interpreter": [
+            "/home/devdragon/workspace/python/FastApliLearn/evfs/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": [],
+        "reportingScope": "file",
+        "preferDaemon": false
+    }
+]
+
+2024-01-15 15:59:31.419 [info] Global settings:
+{
+    "cwd": "${workspaceFolder}",
+    "workspace": "/home/devdragon/workspace/python/FastApliLearn",
+    "args": [],
+    "severity": {
+        "error": "Error",
+        "note": "Information"
+    },
+    "path": [],
+    "ignorePatterns": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": [],
+    "reportingScope": "file",
+    "preferDaemon": false
+}
+
+2024-01-15 15:59:31.421 [info] sys.path used to run Server:
+   /home/devdragon/workspace/python/FastApliLearn
+   /home/devdragon/.vscode/extensions/ms-python.mypy-type-checker-2023.6.0/bundled/libs
+   /home/devdragon/.vscode/extensions/ms-python.mypy-type-checker-2023.6.0/bundled/tool
+   /usr/lib/python311.zip
+   /usr/lib/python3.11
+   /usr/lib/python3.11/lib-dynload
+   /home/devdragon/workspace/python/FastApliLearn/evfs/lib/python3.11/site-packages
+2024-01-15 15:59:31.422 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --version
+2024-01-15 15:59:31.422 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 15:59:36.413 [info] 
+mypy 1.6.1 (compiled: no)
+
+
+2024-01-15 15:59:36.414 [info] Version info for linter running for /home/devdragon/workspace/python/FastApliLearn:
+mypy 1.6.1 (compiled: no)
+
+2024-01-15 15:59:36.414 [info] SUPPORTED mypy>=1.0.0
+FOUND mypy==1.6.1
+
+2024-01-15 15:59:36.426 [info] /home/devdragon/.vscode/extensions/ms-python.mypy-type-checker-2023.6.0/bundled/tool/lsp_server.py:165: DeprecationWarning: 'workspace.get_document' has been deprecated, use 'workspace.get_text_document' instead
+  document = LSP_SERVER.workspace.get_document(params.text_document.uri)
+
+2024-01-15 15:59:36.427 [info] [Trace - 3:59:36 PM] Received notification 'window/logMessage'.
+2024-01-15 15:59:36.427 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/users/user_db.py
+2024-01-15 15:59:36.427 [info] [Trace - 3:59:36 PM] Received notification 'window/logMessage'.
+2024-01-15 15:59:36.427 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 15:59:56.636 [info] [Trace - 3:59:56 PM] Received notification 'window/logMessage'.
+2024-01-15 15:59:56.636 [info] file:///home/devdragon/workspace/python/FastApliLearn/users/user_db.py :
+
+2024-01-15 15:59:56.638 [info] [Trace - 3:59:56 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:01:49.082 [info] /home/devdragon/.vscode/extensions/ms-python.mypy-type-checker-2023.6.0/bundled/tool/lsp_server.py:179: DeprecationWarning: 'workspace.get_document' has been deprecated, use 'workspace.get_text_document' instead
+  document = LSP_SERVER.workspace.get_document(params.text_document.uri)
+
+2024-01-15 16:01:49.110 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/schemas/user.py
+2024-01-15 16:01:49.114 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:01:49.454 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/schemas/user.py :
+
+2024-01-15 16:01:51.144 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:01:51.144 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:01:51.781 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:01:52.593 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/models/user.py
+2024-01-15 16:01:52.676 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:01:55.412 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/models/user.py :
+
+2024-01-15 16:02:59.978 [info] Name: Mypy Type Checker
+2024-01-15 16:02:59.978 [info] Module: mypy
+2024-01-15 16:02:59.978 [info] Python extension loading
+2024-01-15 16:02:59.978 [info] Waiting for interpreter from python extension.
+2024-01-15 16:02:59.978 [info] Python extension loaded
+2024-01-15 16:02:59.978 [info] Server run command: /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python /home/devdragon/.vscode/extensions/ms-python.mypy-type-checker-2023.6.0/bundled/tool/lsp_server.py
+2024-01-15 16:02:59.978 [info] Server: Start requested.
+2024-01-15 16:03:00.673 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:03:00.673 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/devdragon/workspace/python/FastApliLearn",
+        "workspace": "file:///home/devdragon/workspace/python/FastApliLearn",
+        "args": [],
+        "severity": {
+            "error": "Error",
+            "note": "Information"
+        },
+        "path": [],
+        "ignorePatterns": [],
+        "interpreter": [
+            "/home/devdragon/workspace/python/FastApliLearn/evfs/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": [],
+        "reportingScope": "file",
+        "preferDaemon": false
+    }
+]
+
+2024-01-15 16:03:00.674 [info] Global settings:
+{
+    "cwd": "${workspaceFolder}",
+    "workspace": "/home/devdragon/workspace/python/FastApliLearn",
+    "args": [],
+    "severity": {
+        "error": "Error",
+        "note": "Information"
+    },
+    "path": [],
+    "ignorePatterns": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": [],
+    "reportingScope": "file",
+    "preferDaemon": false
+}
+
+2024-01-15 16:03:00.674 [info] sys.path used to run Server:
+   /home/devdragon/workspace/python/FastApliLearn
+   /home/devdragon/.vscode/extensions/ms-python.mypy-type-checker-2023.6.0/bundled/libs
+   /home/devdragon/.vscode/extensions/ms-python.mypy-type-checker-2023.6.0/bundled/tool
+   /usr/lib/python311.zip
+   /usr/lib/python3.11
+   /usr/lib/python3.11/lib-dynload
+   /home/devdragon/workspace/python/FastApliLearn/evfs/lib/python3.11/site-packages
+2024-01-15 16:03:00.675 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --version
+2024-01-15 16:03:00.675 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:03:00.875 [info] 
+mypy 1.6.1 (compiled: no)
+
+
+2024-01-15 16:03:00.875 [info] Version info for linter running for /home/devdragon/workspace/python/FastApliLearn:
+mypy 1.6.1 (compiled: no)
+
+2024-01-15 16:03:00.875 [info] SUPPORTED mypy>=1.0.0
+FOUND mypy==1.6.1
+
+2024-01-15 16:03:00.893 [info] /home/devdragon/.vscode/extensions/ms-python.mypy-type-checker-2023.6.0/bundled/tool/lsp_server.py:165: DeprecationWarning: 'workspace.get_document' has been deprecated, use 'workspace.get_text_document' instead
+  document = LSP_SERVER.workspace.get_document(params.text_document.uri)
+
+2024-01-15 16:03:00.893 [info] [Trace - 4:03:00 PM] Received notification 'window/logMessage'.
+2024-01-15 16:03:00.893 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:03:00.893 [info] [Trace - 4:03:00 PM] Received notification 'window/logMessage'.
+2024-01-15 16:03:00.893 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:03:01.330 [info] [Trace - 4:03:01 PM] Received notification 'window/logMessage'.
+2024-01-15 16:03:01.330 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:03:01.332 [info] [Trace - 4:03:01 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:03:16.469 [info] [Trace - 4:03:16 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:17.404 [info] [Trace - 4:03:17 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:18.625 [info] [Trace - 4:03:18 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:03:18.628 [info] /home/devdragon/.vscode/extensions/ms-python.mypy-type-checker-2023.6.0/bundled/tool/lsp_server.py:172: DeprecationWarning: 'workspace.get_document' has been deprecated, use 'workspace.get_text_document' instead
+  document = LSP_SERVER.workspace.get_document(params.text_document.uri)
+
+2024-01-15 16:03:18.629 [info] [Trace - 4:03:18 PM] Received notification 'window/logMessage'.
+2024-01-15 16:03:18.629 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:03:18.630 [info] [Trace - 4:03:18 PM] Received notification 'window/logMessage'.
+2024-01-15 16:03:18.630 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:03:18.733 [info] [Trace - 4:03:18 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:18.840 [info] [Trace - 4:03:18 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:18.955 [info] [Trace - 4:03:18 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:19.350 [info] [Trace - 4:03:19 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:19.742 [info] [Trace - 4:03:19 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:19.833 [info] [Trace - 4:03:19 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:20.117 [info] [Trace - 4:03:20 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:20.259 [info] [Trace - 4:03:20 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:20.402 [info] [Trace - 4:03:20 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:20.522 [info] [Trace - 4:03:20 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:20.685 [info] [Trace - 4:03:20 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:20.752 [info] [Trace - 4:03:20 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:20.911 [info] [Trace - 4:03:20 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:21.237 [info] [Trace - 4:03:21 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:21.693 [info] [Trace - 4:03:21 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:21.750 [info] [Trace - 4:03:21 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:21.954 [info] [Trace - 4:03:21 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:22.055 [info] [Trace - 4:03:22 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:22.166 [info] [Trace - 4:03:22 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:22.254 [info] [Trace - 4:03:22 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:22.431 [info] [Trace - 4:03:22 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:22.511 [info] [Trace - 4:03:22 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:22.689 [info] [Trace - 4:03:22 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:22.969 [info] [Trace - 4:03:22 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:23.080 [info] [Trace - 4:03:23 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:23.179 [info] [Trace - 4:03:23 PM] Received notification 'window/logMessage'.
+2024-01-15 16:03:23.179 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:03:23.179 [info] [Trace - 4:03:23 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:03:24.129 [info] [Trace - 4:03:24 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:24.247 [info] [Trace - 4:03:24 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:24.339 [info] [Trace - 4:03:24 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:03:24.342 [info] [Trace - 4:03:24 PM] Received notification 'window/logMessage'.
+2024-01-15 16:03:24.342 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:03:24.342 [info] [Trace - 4:03:24 PM] Received notification 'window/logMessage'.
+2024-01-15 16:03:24.342 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:03:24.778 [info] [Trace - 4:03:24 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:25.931 [info] [Trace - 4:03:25 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:03:26.201 [info] [Trace - 4:03:26 PM] Received notification 'window/logMessage'.
+2024-01-15 16:03:26.201 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:03:26.201 [info] [Trace - 4:03:26 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:03:26.205 [info] [Trace - 4:03:26 PM] Received notification 'window/logMessage'.
+2024-01-15 16:03:26.205 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:03:26.206 [info] [Trace - 4:03:26 PM] Received notification 'window/logMessage'.
+2024-01-15 16:03:26.206 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:03:28.144 [info] [Trace - 4:03:28 PM] Received notification 'window/logMessage'.
+2024-01-15 16:03:28.144 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:03:28.145 [info] [Trace - 4:03:28 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:03:57.542 [info] [Trace - 4:03:57 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:58.564 [info] [Trace - 4:03:58 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:03:58.786 [info] [Trace - 4:03:58 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:03:58.789 [info] [Trace - 4:03:58 PM] Received notification 'window/logMessage'.
+2024-01-15 16:03:58.789 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:03:58.790 [info] [Trace - 4:03:58 PM] Received notification 'window/logMessage'.
+2024-01-15 16:03:58.790 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:03:59.147 [info] [Trace - 4:03:59 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:00.312 [info] [Trace - 4:04:00 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:04:00.754 [info] [Trace - 4:04:00 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:01.462 [info] [Trace - 4:04:01 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:01.463 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:04:01.463 [info] [Trace - 4:04:01 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:04:01.465 [info] [Trace - 4:04:01 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:01.465 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:04:01.465 [info] [Trace - 4:04:01 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:01.465 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:04:01.617 [info] [Trace - 4:04:01 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:01.617 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:8:2:8:2: error: expected 'except' or 'finally' block  [syntax]
+
+2024-01-15 16:04:01.617 [info] [Trace - 4:04:01 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:01.617 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:8:2:8:2: error: expected 'except' or 'finally' block  [syntax]
+
+2024-01-15 16:04:01.618 [info] [Trace - 4:04:01 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:04:01.910 [info] [Trace - 4:04:01 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:04:01.913 [info] [Trace - 4:04:01 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:01.913 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:04:01.913 [info] [Trace - 4:04:01 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:01.913 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:04:03.985 [info] [Trace - 4:04:03 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:03.985 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:04:03.985 [info] [Trace - 4:04:03 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:04:07.333 [info] [Trace - 4:04:07 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:08.472 [info] [Trace - 4:04:08 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:04:08.476 [info] [Trace - 4:04:08 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:08.476 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:04:08.476 [info] [Trace - 4:04:08 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:08.476 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:04:09.162 [info] [Trace - 4:04:09 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:10.323 [info] [Trace - 4:04:10 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:04:10.799 [info] [Trace - 4:04:10 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:10.947 [info] [Trace - 4:04:10 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:10.947 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:04:10.949 [info] [Trace - 4:04:10 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:04:10.952 [info] [Trace - 4:04:10 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:10.952 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:04:10.952 [info] [Trace - 4:04:10 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:10.952 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:04:11.885 [info] [Trace - 4:04:11 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:04:12.369 [info] [Trace - 4:04:12 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:13.012 [info] [Trace - 4:04:13 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:13.470 [info] [Trace - 4:04:13 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:13.470 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:04:13.470 [info] [Trace - 4:04:13 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:04:13.472 [info] [Trace - 4:04:13 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:13.472 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:04:13.472 [info] [Trace - 4:04:13 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:13.472 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:04:14.299 [info] [Trace - 4:04:14 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:04:16.346 [info] [Trace - 4:04:16 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:16.346 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:04:16.347 [info] [Trace - 4:04:16 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:04:16.353 [info] [Trace - 4:04:16 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:16.353 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:04:16.353 [info] [Trace - 4:04:16 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:16.353 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:04:16.960 [info] [Trace - 4:04:16 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:17.003 [info] [Trace - 4:04:17 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:17.003 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:04:17.003 [info] [Trace - 4:04:17 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:04:17.283 [info] [Trace - 4:04:17 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:17.505 [info] [Trace - 4:04:17 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:17.889 [info] [Trace - 4:04:17 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:18.037 [info] [Trace - 4:04:18 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:18.175 [info] [Trace - 4:04:18 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:18.549 [info] [Trace - 4:04:18 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:18.927 [info] [Trace - 4:04:18 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:19.357 [info] [Trace - 4:04:19 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:19.712 [info] [Trace - 4:04:19 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:19.898 [info] [Trace - 4:04:19 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:20.104 [info] [Trace - 4:04:20 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:20.241 [info] [Trace - 4:04:20 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:20.376 [info] [Trace - 4:04:20 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:21.807 [info] [Trace - 4:04:21 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:04:21.810 [info] [Trace - 4:04:21 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:21.810 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:04:21.810 [info] [Trace - 4:04:21 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:21.810 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:04:23.365 [info] [Trace - 4:04:23 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:24.626 [info] [Trace - 4:04:24 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:24.626 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:10:15:10:61: error: Incompatible types in assignment (expression has type "Database[<nothing>]", variable has type "MongoClient[Any]")  [assignment]
+
+2024-01-15 16:04:24.626 [info] [Trace - 4:04:24 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:24.626 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:10:15:10:61: error: Incompatible types in assignment (expression has type "Database[<nothing>]", variable has type "MongoClient[Any]")  [assignment]
+
+2024-01-15 16:04:24.626 [info] [Trace - 4:04:24 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:04:24.642 [info] [Trace - 4:04:24 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:04:24.650 [info] [Trace - 4:04:24 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:24.650 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:04:24.651 [info] [Trace - 4:04:24 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:24.651 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:04:25.465 [info] [Trace - 4:04:25 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:26.501 [info] [Trace - 4:04:26 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:26.738 [info] [Trace - 4:04:26 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:04:28.463 [info] [Trace - 4:04:28 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:28.463 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:04:28.463 [info] [Trace - 4:04:28 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:04:28.466 [info] [Trace - 4:04:28 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:28.466 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:04:28.469 [info] [Trace - 4:04:28 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:28.469 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:04:31.287 [info] [Trace - 4:04:31 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:31.287 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:04:31.287 [info] [Trace - 4:04:31 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:04:35.540 [info] [Trace - 4:04:35 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:36.518 [info] [Trace - 4:04:36 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:37.032 [info] [Trace - 4:04:37 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:37.243 [info] [Trace - 4:04:37 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:37.946 [info] [Trace - 4:04:37 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:38.075 [info] [Trace - 4:04:38 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:38.210 [info] [Trace - 4:04:38 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:38.347 [info] [Trace - 4:04:38 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:38.498 [info] [Trace - 4:04:38 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:38.631 [info] [Trace - 4:04:38 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:38.703 [info] [Trace - 4:04:38 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:38.837 [info] [Trace - 4:04:38 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:39.037 [info] [Trace - 4:04:39 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:39.198 [info] [Trace - 4:04:39 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:39.392 [info] [Trace - 4:04:39 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:39.535 [info] [Trace - 4:04:39 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:39.648 [info] [Trace - 4:04:39 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:39.803 [info] [Trace - 4:04:39 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:39.903 [info] [Trace - 4:04:39 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:40.045 [info] [Trace - 4:04:40 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:40.278 [info] [Trace - 4:04:40 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:40.486 [info] [Trace - 4:04:40 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:40.567 [info] [Trace - 4:04:40 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:40.740 [info] [Trace - 4:04:40 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:40.765 [info] [Trace - 4:04:40 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:40.931 [info] [Trace - 4:04:40 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:41.140 [info] [Trace - 4:04:41 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:41.597 [info] [Trace - 4:04:41 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:41.733 [info] [Trace - 4:04:41 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:41.839 [info] [Trace - 4:04:41 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:42.011 [info] [Trace - 4:04:42 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:42.302 [info] [Trace - 4:04:42 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:42.509 [info] [Trace - 4:04:42 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:42.605 [info] [Trace - 4:04:42 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:43.033 [info] [Trace - 4:04:43 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:43.203 [info] [Trace - 4:04:43 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:43.308 [info] [Trace - 4:04:43 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:43.616 [info] [Trace - 4:04:43 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:43.729 [info] [Trace - 4:04:43 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:44.053 [info] [Trace - 4:04:44 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:44.265 [info] [Trace - 4:04:44 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:44.367 [info] [Trace - 4:04:44 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:44.790 [info] [Trace - 4:04:44 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:44.881 [info] [Trace - 4:04:44 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:45.115 [info] [Trace - 4:04:45 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:45.178 [info] [Trace - 4:04:45 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:45.301 [info] [Trace - 4:04:45 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:45.370 [info] [Trace - 4:04:45 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:45.640 [info] [Trace - 4:04:45 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:45.772 [info] [Trace - 4:04:45 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:45.820 [info] [Trace - 4:04:45 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:46.187 [info] [Trace - 4:04:46 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:46.534 [info] [Trace - 4:04:46 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:46.646 [info] [Trace - 4:04:46 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:46.793 [info] [Trace - 4:04:46 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:46.936 [info] [Trace - 4:04:46 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:47.070 [info] [Trace - 4:04:47 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:47.377 [info] [Trace - 4:04:47 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:47.509 [info] [Trace - 4:04:47 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:47.676 [info] [Trace - 4:04:47 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:47.795 [info] [Trace - 4:04:47 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:48.027 [info] [Trace - 4:04:48 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:48.165 [info] [Trace - 4:04:48 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:48.379 [info] [Trace - 4:04:48 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:48.510 [info] [Trace - 4:04:48 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:48.702 [info] [Trace - 4:04:48 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:48.881 [info] [Trace - 4:04:48 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:49.335 [info] [Trace - 4:04:49 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:04:50.614 [info] [Trace - 4:04:50 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:04:50.626 [info] [Trace - 4:04:50 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:50.626 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:04:50.628 [info] [Trace - 4:04:50 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:50.628 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:04:54.789 [info] [Trace - 4:04:54 PM] Received notification 'window/logMessage'.
+2024-01-15 16:04:54.789 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:04:54.790 [info] [Trace - 4:04:54 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:19:39.905 [info] [Trace - 4:19:39 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:41.196 [info] [Trace - 4:19:41 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:41.232 [info] [Trace - 4:19:41 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:19:41.235 [info] [Trace - 4:19:41 PM] Received notification 'window/logMessage'.
+2024-01-15 16:19:41.235 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:19:41.235 [info] [Trace - 4:19:41 PM] Received notification 'window/logMessage'.
+2024-01-15 16:19:41.235 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:19:41.773 [info] [Trace - 4:19:41 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:43.200 [info] [Trace - 4:19:43 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:19:43.496 [info] [Trace - 4:19:43 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:43.527 [info] [Trace - 4:19:43 PM] Received notification 'window/logMessage'.
+2024-01-15 16:19:43.527 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:19:43.527 [info] [Trace - 4:19:43 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:19:43.530 [info] [Trace - 4:19:43 PM] Received notification 'window/logMessage'.
+2024-01-15 16:19:43.530 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:19:43.530 [info] [Trace - 4:19:43 PM] Received notification 'window/logMessage'.
+2024-01-15 16:19:43.530 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:19:44.842 [info] [Trace - 4:19:44 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:19:46.292 [info] [Trace - 4:19:46 PM] Received notification 'window/logMessage'.
+2024-01-15 16:19:46.292 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:19:46.293 [info] [Trace - 4:19:46 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:19:46.293 [info] [Trace - 4:19:46 PM] Received notification 'window/logMessage'.
+2024-01-15 16:19:46.293 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:19:46.294 [info] [Trace - 4:19:46 PM] Received notification 'window/logMessage'.
+2024-01-15 16:19:46.294 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:19:47.319 [info] [Trace - 4:19:47 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:47.404 [info] [Trace - 4:19:47 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:47.513 [info] [Trace - 4:19:47 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:47.611 [info] [Trace - 4:19:47 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:47.748 [info] [Trace - 4:19:47 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:47.874 [info] [Trace - 4:19:47 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:48.100 [info] [Trace - 4:19:48 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:48.222 [info] [Trace - 4:19:48 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:48.357 [info] [Trace - 4:19:48 PM] Received notification 'window/logMessage'.
+2024-01-15 16:19:48.357 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:19:48.357 [info] [Trace - 4:19:48 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:19:48.443 [info] [Trace - 4:19:48 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:48.543 [info] [Trace - 4:19:48 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:48.915 [info] [Trace - 4:19:48 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:49.017 [info] [Trace - 4:19:49 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:49.224 [info] [Trace - 4:19:49 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:49.349 [info] [Trace - 4:19:49 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:50.226 [info] [Trace - 4:19:50 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:51.489 [info] [Trace - 4:19:51 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:19:51.496 [info] [Trace - 4:19:51 PM] Received notification 'window/logMessage'.
+2024-01-15 16:19:51.496 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:19:51.496 [info] [Trace - 4:19:51 PM] Received notification 'window/logMessage'.
+2024-01-15 16:19:51.496 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:19:52.682 [info] [Trace - 4:19:52 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:52.901 [info] [Trace - 4:19:52 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:53.091 [info] [Trace - 4:19:53 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:53.541 [info] [Trace - 4:19:53 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:53.631 [info] [Trace - 4:19:53 PM] Received notification 'window/logMessage'.
+2024-01-15 16:19:53.631 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:19:53.631 [info] [Trace - 4:19:53 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:19:53.660 [info] [Trace - 4:19:53 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:53.762 [info] [Trace - 4:19:53 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:53.838 [info] [Trace - 4:19:53 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:54.204 [info] [Trace - 4:19:54 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:54.390 [info] [Trace - 4:19:54 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:54.684 [info] [Trace - 4:19:54 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:54.920 [info] [Trace - 4:19:54 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:19:55.989 [info] [Trace - 4:19:55 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:19:55.994 [info] [Trace - 4:19:55 PM] Received notification 'window/logMessage'.
+2024-01-15 16:19:55.994 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:19:55.994 [info] [Trace - 4:19:55 PM] Received notification 'window/logMessage'.
+2024-01-15 16:19:55.994 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:19:58.463 [info] [Trace - 4:19:58 PM] Received notification 'window/logMessage'.
+2024-01-15 16:19:58.463 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:19:58.463 [info] [Trace - 4:19:58 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:23:12.454 [info] [Trace - 4:23:12 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:23:12.934 [info] [Trace - 4:23:12 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:23:13.402 [info] [Trace - 4:23:13 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:23:14.548 [info] [Trace - 4:23:14 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:23:14.572 [info] [Trace - 4:23:14 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:23:14.580 [info] [Trace - 4:23:14 PM] Received notification 'window/logMessage'.
+2024-01-15 16:23:14.580 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:23:14.580 [info] [Trace - 4:23:14 PM] Received notification 'window/logMessage'.
+2024-01-15 16:23:14.580 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:23:14.645 [info] [Trace - 4:23:14 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:23:14.812 [info] [Trace - 4:23:14 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:23:14.967 [info] [Trace - 4:23:14 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:23:15.575 [info] [Trace - 4:23:15 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:23:15.697 [info] [Trace - 4:23:15 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:23:15.829 [info] [Trace - 4:23:15 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:23:16.048 [info] [Trace - 4:23:16 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:23:16.556 [info] [Trace - 4:23:16 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:23:17.250 [info] [Trace - 4:23:17 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:23:17.557 [info] [Trace - 4:23:17 PM] Received notification 'window/logMessage'.
+2024-01-15 16:23:17.557 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:23:17.557 [info] [Trace - 4:23:17 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:23:18.414 [info] [Trace - 4:23:18 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:23:18.422 [info] [Trace - 4:23:18 PM] Received notification 'window/logMessage'.
+2024-01-15 16:23:18.422 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:23:18.424 [info] [Trace - 4:23:18 PM] Received notification 'window/logMessage'.
+2024-01-15 16:23:18.424 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:23:19.126 [info] [Trace - 4:23:19 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:23:20.776 [info] [Trace - 4:23:20 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:23:21.573 [info] [Trace - 4:23:21 PM] Received notification 'window/logMessage'.
+2024-01-15 16:23:21.573 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:23:21.574 [info] [Trace - 4:23:21 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:23:21.580 [info] [Trace - 4:23:21 PM] Received notification 'window/logMessage'.
+2024-01-15 16:23:21.580 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:23:21.580 [info] [Trace - 4:23:21 PM] Received notification 'window/logMessage'.
+2024-01-15 16:23:21.580 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:23:23.751 [info] [Trace - 4:23:23 PM] Received notification 'window/logMessage'.
+2024-01-15 16:23:23.751 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:23:23.751 [info] [Trace - 4:23:23 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:23:28.454 [info] [Trace - 4:23:28 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:23:29.614 [info] [Trace - 4:23:29 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:23:29.620 [info] [Trace - 4:23:29 PM] Received notification 'window/logMessage'.
+2024-01-15 16:23:29.620 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:23:29.621 [info] [Trace - 4:23:29 PM] Received notification 'window/logMessage'.
+2024-01-15 16:23:29.621 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:23:31.975 [info] [Trace - 4:23:31 PM] Received notification 'window/logMessage'.
+2024-01-15 16:23:31.975 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:23:31.975 [info] [Trace - 4:23:31 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:36:45.081 [info] [Trace - 4:36:45 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:45.436 [info] [Trace - 4:36:45 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:45.735 [info] [Trace - 4:36:45 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:45.808 [info] [Trace - 4:36:45 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:46.201 [info] [Trace - 4:36:46 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:46.343 [info] [Trace - 4:36:46 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:46.592 [info] [Trace - 4:36:46 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:47.051 [info] [Trace - 4:36:47 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:47.141 [info] [Trace - 4:36:47 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:47.258 [info] [Trace - 4:36:47 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:48.505 [info] [Trace - 4:36:48 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:36:48.508 [info] [Trace - 4:36:48 PM] Received notification 'window/logMessage'.
+2024-01-15 16:36:48.508 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:36:48.508 [info] [Trace - 4:36:48 PM] Received notification 'window/logMessage'.
+2024-01-15 16:36:48.508 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:36:48.672 [info] [Trace - 4:36:48 PM] Received notification 'window/logMessage'.
+2024-01-15 16:36:48.672 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:11:2:11:2: error: expected an indented block after 'try' statement on line 5  [syntax]
+
+2024-01-15 16:36:48.672 [info] [Trace - 4:36:48 PM] Received notification 'window/logMessage'.
+2024-01-15 16:36:48.672 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:11:2:11:2: error: expected an indented block after 'try' statement on line 5  [syntax]
+
+2024-01-15 16:36:48.673 [info] [Trace - 4:36:48 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:36:48.919 [info] [Trace - 4:36:48 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:48.982 [info] [Trace - 4:36:48 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:50.213 [info] [Trace - 4:36:50 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:36:50.218 [info] [Trace - 4:36:50 PM] Received notification 'window/logMessage'.
+2024-01-15 16:36:50.218 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:36:50.218 [info] [Trace - 4:36:50 PM] Received notification 'window/logMessage'.
+2024-01-15 16:36:50.218 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:36:50.313 [info] [Trace - 4:36:50 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:50.414 [info] [Trace - 4:36:50 PM] Received notification 'window/logMessage'.
+2024-01-15 16:36:50.414 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:11:2:11:2: error: expected an indented block after 'try' statement on line 5  [syntax]
+
+2024-01-15 16:36:50.415 [info] [Trace - 4:36:50 PM] Received notification 'window/logMessage'.
+2024-01-15 16:36:50.415 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:11:2:11:2: error: expected an indented block after 'try' statement on line 5  [syntax]
+
+2024-01-15 16:36:50.416 [info] [Trace - 4:36:50 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:36:51.548 [info] [Trace - 4:36:51 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:36:51.551 [info] [Trace - 4:36:51 PM] Received notification 'window/logMessage'.
+2024-01-15 16:36:51.551 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:36:51.554 [info] [Trace - 4:36:51 PM] Received notification 'window/logMessage'.
+2024-01-15 16:36:51.554 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:36:51.742 [info] [Trace - 4:36:51 PM] Received notification 'window/logMessage'.
+2024-01-15 16:36:51.742 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:12:2:12:2: error: expected an indented block after 'try' statement on line 5  [syntax]
+
+2024-01-15 16:36:51.742 [info] [Trace - 4:36:51 PM] Received notification 'window/logMessage'.
+2024-01-15 16:36:51.742 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:12:2:12:2: error: expected an indented block after 'try' statement on line 5  [syntax]
+
+2024-01-15 16:36:51.742 [info] [Trace - 4:36:51 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:36:52.165 [info] [Trace - 4:36:52 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:52.327 [info] [Trace - 4:36:52 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:52.881 [info] [Trace - 4:36:52 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:53.125 [info] [Trace - 4:36:53 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:53.522 [info] [Trace - 4:36:53 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:54.166 [info] [Trace - 4:36:54 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:54.694 [info] [Trace - 4:36:54 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:54.985 [info] [Trace - 4:36:54 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:55.094 [info] [Trace - 4:36:55 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:55.206 [info] [Trace - 4:36:55 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:55.315 [info] [Trace - 4:36:55 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:55.886 [info] [Trace - 4:36:55 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:56.423 [info] [Trace - 4:36:56 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:56.678 [info] [Trace - 4:36:56 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:56.803 [info] [Trace - 4:36:56 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:57.209 [info] [Trace - 4:36:57 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:57.542 [info] [Trace - 4:36:57 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:57.737 [info] [Trace - 4:36:57 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:36:58.899 [info] [Trace - 4:36:58 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:36:58.906 [info] [Trace - 4:36:58 PM] Received notification 'window/logMessage'.
+2024-01-15 16:36:58.906 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:36:58.906 [info] [Trace - 4:36:58 PM] Received notification 'window/logMessage'.
+2024-01-15 16:36:58.906 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:36:59.202 [info] [Trace - 4:36:59 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:37:00.445 [info] [Trace - 4:37:00 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:37:00.539 [info] [Trace - 4:37:00 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:37:00.920 [info] [Trace - 4:37:00 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:37:01.311 [info] [Trace - 4:37:01 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:01.311 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:7:14:7:14: error: Name "Mon" is not defined  [name-defined]
+
+2024-01-15 16:37:01.311 [info] [Trace - 4:37:01 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:01.311 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:7:14:7:14: error: Name "Mon" is not defined  [name-defined]
+
+2024-01-15 16:37:01.311 [info] [Trace - 4:37:01 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:37:01.314 [info] [Trace - 4:37:01 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:01.314 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:37:01.314 [info] [Trace - 4:37:01 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:01.314 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:37:02.220 [info] [Trace - 4:37:02 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:37:02.680 [info] [Trace - 4:37:02 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:37:03.708 [info] [Trace - 4:37:03 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:37:03.848 [info] [Trace - 4:37:03 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:03.848 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:7:14:7:24: error: Incompatible types in assignment (expression has type "type[MongoClient[Any]]", variable has type "MongoClient[Any]")  [assignment]
+
+2024-01-15 16:37:03.849 [info] [Trace - 4:37:03 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:03.849 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:7:14:7:24: error: Incompatible types in assignment (expression has type "type[MongoClient[Any]]", variable has type "MongoClient[Any]")  [assignment]
+
+2024-01-15 16:37:03.849 [info] [Trace - 4:37:03 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:37:03.858 [info] [Trace - 4:37:03 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:03.858 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:37:03.859 [info] [Trace - 4:37:03 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:03.859 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:37:04.120 [info] [Trace - 4:37:04 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:37:05.127 [info] [Trace - 4:37:05 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:37:06.349 [info] [Trace - 4:37:06 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:06.349 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:37:06.349 [info] [Trace - 4:37:06 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:37:06.354 [info] [Trace - 4:37:06 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:06.354 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:37:06.354 [info] [Trace - 4:37:06 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:06.354 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:37:08.311 [info] [Trace - 4:37:08 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:08.311 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:37:08.312 [info] [Trace - 4:37:08 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:37:08.314 [info] [Trace - 4:37:08 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:08.314 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:37:08.314 [info] [Trace - 4:37:08 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:08.314 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:37:08.730 [info] [Trace - 4:37:08 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:08.730 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:37:08.730 [info] [Trace - 4:37:08 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:37:40.641 [info] [Trace - 4:37:40 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:37:41.847 [info] [Trace - 4:37:41 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:37:41.855 [info] [Trace - 4:37:41 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:41.855 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:37:41.856 [info] [Trace - 4:37:41 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:41.856 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:37:44.282 [info] [Trace - 4:37:44 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:44.282 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:37:44.282 [info] [Trace - 4:37:44 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:37:44.981 [info] [Trace - 4:37:44 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:37:45.157 [info] [Trace - 4:37:45 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:37:45.290 [info] [Trace - 4:37:45 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:37:45.413 [info] [Trace - 4:37:45 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:37:45.560 [info] [Trace - 4:37:45 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:37:45.698 [info] [Trace - 4:37:45 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:37:45.853 [info] [Trace - 4:37:45 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:37:45.990 [info] [Trace - 4:37:45 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:37:46.206 [info] [Trace - 4:37:46 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:37:46.493 [info] [Trace - 4:37:46 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:37:47.744 [info] [Trace - 4:37:47 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:37:47.760 [info] [Trace - 4:37:47 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:47.760 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:37:47.764 [info] [Trace - 4:37:47 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:47.764 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:37:49.789 [info] [Trace - 4:37:49 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:49.789 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:37:49.789 [info] [Trace - 4:37:49 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:37:50.754 [info] [Trace - 4:37:50 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:37:51.921 [info] [Trace - 4:37:51 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:37:51.928 [info] [Trace - 4:37:51 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:51.928 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:37:51.928 [info] [Trace - 4:37:51 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:51.928 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:37:53.950 [info] [Trace - 4:37:53 PM] Received notification 'window/logMessage'.
+2024-01-15 16:37:53.950 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:37:53.951 [info] [Trace - 4:37:53 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:38:06.191 [info] [Trace - 4:38:06 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:38:07.359 [info] [Trace - 4:38:07 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:38:07.368 [info] [Trace - 4:38:07 PM] Received notification 'window/logMessage'.
+2024-01-15 16:38:07.368 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:38:07.370 [info] [Trace - 4:38:07 PM] Received notification 'window/logMessage'.
+2024-01-15 16:38:07.370 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:38:09.545 [info] [Trace - 4:38:09 PM] Received notification 'window/logMessage'.
+2024-01-15 16:38:09.545 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:38:09.546 [info] [Trace - 4:38:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:38:09.569 [info] [Trace - 4:38:09 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:38:09.748 [info] [Trace - 4:38:09 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:38:09.898 [info] [Trace - 4:38:09 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:38:10.033 [info] [Trace - 4:38:10 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:38:10.164 [info] [Trace - 4:38:10 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:38:10.301 [info] [Trace - 4:38:10 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:38:10.441 [info] [Trace - 4:38:10 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:38:10.585 [info] [Trace - 4:38:10 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:38:10.739 [info] [Trace - 4:38:10 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:38:10.872 [info] [Trace - 4:38:10 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:38:11.386 [info] [Trace - 4:38:11 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:38:11.693 [info] [Trace - 4:38:11 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:38:11.988 [info] [Trace - 4:38:11 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:38:13.121 [info] [Trace - 4:38:13 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:38:13.124 [info] [Trace - 4:38:13 PM] Received notification 'window/logMessage'.
+2024-01-15 16:38:13.124 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:38:13.124 [info] [Trace - 4:38:13 PM] Received notification 'window/logMessage'.
+2024-01-15 16:38:13.124 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:38:15.192 [info] [Trace - 4:38:15 PM] Received notification 'window/logMessage'.
+2024-01-15 16:38:15.192 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:38:15.192 [info] [Trace - 4:38:15 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:40:12.823 [info] [Trace - 4:40:12 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:13.734 [info] [Trace - 4:40:13 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:14.338 [info] [Trace - 4:40:14 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:15.241 [info] [Trace - 4:40:15 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:15.339 [info] [Trace - 4:40:15 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:15.506 [info] [Trace - 4:40:15 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:16.039 [info] [Trace - 4:40:16 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:16.165 [info] [Trace - 4:40:16 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:16.276 [info] [Trace - 4:40:16 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:16.386 [info] [Trace - 4:40:16 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:16.685 [info] [Trace - 4:40:16 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:16.850 [info] [Trace - 4:40:16 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:17.097 [info] [Trace - 4:40:17 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:17.268 [info] [Trace - 4:40:17 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:17.371 [info] [Trace - 4:40:17 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:18.371 [info] [Trace - 4:40:18 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:18.586 [info] [Trace - 4:40:18 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:18.733 [info] [Trace - 4:40:18 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:18.879 [info] [Trace - 4:40:18 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:19.012 [info] [Trace - 4:40:19 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:19.155 [info] [Trace - 4:40:19 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:19.297 [info] [Trace - 4:40:19 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:19.682 [info] [Trace - 4:40:19 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:20.189 [info] [Trace - 4:40:20 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:20.309 [info] [Trace - 4:40:20 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:20.530 [info] [Trace - 4:40:20 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:20.622 [info] [Trace - 4:40:20 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:21.103 [info] [Trace - 4:40:21 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:21.205 [info] [Trace - 4:40:21 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:21.361 [info] [Trace - 4:40:21 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:21.524 [info] [Trace - 4:40:21 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:21.598 [info] [Trace - 4:40:21 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:21.715 [info] [Trace - 4:40:21 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:21.945 [info] [Trace - 4:40:21 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:22.018 [info] [Trace - 4:40:22 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:22.156 [info] [Trace - 4:40:22 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:22.273 [info] [Trace - 4:40:22 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:22.536 [info] [Trace - 4:40:22 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:22.616 [info] [Trace - 4:40:22 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:22.826 [info] [Trace - 4:40:22 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:22.937 [info] [Trace - 4:40:22 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:23.025 [info] [Trace - 4:40:23 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:23.096 [info] [Trace - 4:40:23 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:23.289 [info] [Trace - 4:40:23 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:23.396 [info] [Trace - 4:40:23 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:23.491 [info] [Trace - 4:40:23 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:23.804 [info] [Trace - 4:40:23 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:23.907 [info] [Trace - 4:40:23 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:24.011 [info] [Trace - 4:40:24 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:24.150 [info] [Trace - 4:40:24 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:24.231 [info] [Trace - 4:40:24 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:24.360 [info] [Trace - 4:40:24 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:24.822 [info] [Trace - 4:40:24 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:24.908 [info] [Trace - 4:40:24 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:25.183 [info] [Trace - 4:40:25 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:25.277 [info] [Trace - 4:40:25 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:25.633 [info] [Trace - 4:40:25 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:25.701 [info] [Trace - 4:40:25 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:40:27.008 [info] [Trace - 4:40:27 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:40:27.016 [info] [Trace - 4:40:27 PM] Received notification 'window/logMessage'.
+2024-01-15 16:40:27.016 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:40:27.016 [info] [Trace - 4:40:27 PM] Received notification 'window/logMessage'.
+2024-01-15 16:40:27.016 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:40:29.932 [info] [Trace - 4:40:29 PM] Received notification 'window/logMessage'.
+2024-01-15 16:40:29.932 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+
+2024-01-15 16:40:29.932 [info] [Trace - 4:40:29 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:48:10.893 [info] [Trace - 4:48:10 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:11.556 [info] [Trace - 4:48:11 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:11.606 [info] [Trace - 4:48:11 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:11.634 [info] [Trace - 4:48:11 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:11.671 [info] [Trace - 4:48:11 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:11.717 [info] [Trace - 4:48:11 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:11.761 [info] [Trace - 4:48:11 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:11.811 [info] [Trace - 4:48:11 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:11.832 [info] [Trace - 4:48:11 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:11.872 [info] [Trace - 4:48:11 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:11.914 [info] [Trace - 4:48:11 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:11.952 [info] [Trace - 4:48:11 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:11.991 [info] [Trace - 4:48:11 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:12.034 [info] [Trace - 4:48:12 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:12.072 [info] [Trace - 4:48:12 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:12.113 [info] [Trace - 4:48:12 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:12.152 [info] [Trace - 4:48:12 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:12.193 [info] [Trace - 4:48:12 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:12.235 [info] [Trace - 4:48:12 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:12.274 [info] [Trace - 4:48:12 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:12.315 [info] [Trace - 4:48:12 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:12.355 [info] [Trace - 4:48:12 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:12.394 [info] [Trace - 4:48:12 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:12.445 [info] [Trace - 4:48:12 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:12.479 [info] [Trace - 4:48:12 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:12.516 [info] [Trace - 4:48:12 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:12.728 [info] [Trace - 4:48:12 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:12.861 [info] [Trace - 4:48:12 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:13.015 [info] [Trace - 4:48:13 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:14.172 [info] [Trace - 4:48:14 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:48:14.178 [info] [Trace - 4:48:14 PM] Received notification 'window/logMessage'.
+2024-01-15 16:48:14.178 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:48:14.178 [info] [Trace - 4:48:14 PM] Received notification 'window/logMessage'.
+2024-01-15 16:48:14.178 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:48:14.601 [info] [Trace - 4:48:14 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:48:14.730 [info] [Trace - 4:48:14 PM] Received notification 'window/logMessage'.
+2024-01-15 16:48:14.730 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 16:48:14.730 [info] [Trace - 4:48:14 PM] Received notification 'window/logMessage'.
+2024-01-15 16:48:14.730 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 16:48:14.730 [info] [Trace - 4:48:14 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:48:15.894 [info] [Trace - 4:48:15 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:48:15.897 [info] [Trace - 4:48:15 PM] Received notification 'window/logMessage'.
+2024-01-15 16:48:15.897 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:48:15.897 [info] [Trace - 4:48:15 PM] Received notification 'window/logMessage'.
+2024-01-15 16:48:15.897 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:48:16.505 [info] [Trace - 4:48:16 PM] Received notification 'window/logMessage'.
+2024-01-15 16:48:16.505 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 16:48:16.505 [info] [Trace - 4:48:16 PM] Received notification 'window/logMessage'.
+2024-01-15 16:48:16.505 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 16:48:16.505 [info] [Trace - 4:48:16 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:53:21.662 [info] [Trace - 4:53:21 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:22.908 [info] [Trace - 4:53:22 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:53:22.910 [info] [Trace - 4:53:22 PM] Received notification 'window/logMessage'.
+2024-01-15 16:53:22.910 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:53:22.910 [info] [Trace - 4:53:22 PM] Received notification 'window/logMessage'.
+2024-01-15 16:53:22.910 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:53:23.485 [info] [Trace - 4:53:23 PM] Received notification 'window/logMessage'.
+2024-01-15 16:53:23.485 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 16:53:23.485 [info] [Trace - 4:53:23 PM] Received notification 'window/logMessage'.
+2024-01-15 16:53:23.485 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 16:53:23.506 [info] [Trace - 4:53:23 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:53:26.824 [info] [Trace - 4:53:26 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:26.910 [info] [Trace - 4:53:26 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:26.999 [info] [Trace - 4:53:26 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:27.174 [info] [Trace - 4:53:27 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:27.301 [info] [Trace - 4:53:27 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:27.744 [info] [Trace - 4:53:27 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:28.603 [info] [Trace - 4:53:28 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:29.120 [info] [Trace - 4:53:29 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:29.339 [info] [Trace - 4:53:29 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:29.511 [info] [Trace - 4:53:29 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:29.819 [info] [Trace - 4:53:29 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:29.955 [info] [Trace - 4:53:29 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:30.237 [info] [Trace - 4:53:30 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:30.316 [info] [Trace - 4:53:30 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:30.454 [info] [Trace - 4:53:30 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:30.718 [info] [Trace - 4:53:30 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:30.803 [info] [Trace - 4:53:30 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:30.891 [info] [Trace - 4:53:30 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:31.104 [info] [Trace - 4:53:31 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:31.165 [info] [Trace - 4:53:31 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:31.364 [info] [Trace - 4:53:31 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:31.483 [info] [Trace - 4:53:31 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:31.714 [info] [Trace - 4:53:31 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:32.592 [info] [Trace - 4:53:32 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:32.688 [info] [Trace - 4:53:32 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:32.862 [info] [Trace - 4:53:32 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:32.989 [info] [Trace - 4:53:32 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:33.013 [info] [Trace - 4:53:33 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:33.029 [info] [Trace - 4:53:33 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:33.100 [info] [Trace - 4:53:33 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:34.412 [info] [Trace - 4:53:34 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:53:34.421 [info] [Trace - 4:53:34 PM] Received notification 'window/logMessage'.
+2024-01-15 16:53:34.421 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:53:34.421 [info] [Trace - 4:53:34 PM] Received notification 'window/logMessage'.
+2024-01-15 16:53:34.421 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:53:34.995 [info] [Trace - 4:53:34 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:53:35.022 [info] [Trace - 4:53:35 PM] Received notification 'window/logMessage'.
+2024-01-15 16:53:35.023 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 16:53:35.024 [info] [Trace - 4:53:35 PM] Received notification 'window/logMessage'.
+2024-01-15 16:53:35.024 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 16:53:35.024 [info] [Trace - 4:53:35 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:53:36.150 [info] [Trace - 4:53:36 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:53:36.153 [info] [Trace - 4:53:36 PM] Received notification 'window/logMessage'.
+2024-01-15 16:53:36.153 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:53:36.153 [info] [Trace - 4:53:36 PM] Received notification 'window/logMessage'.
+2024-01-15 16:53:36.153 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:53:36.827 [info] [Trace - 4:53:36 PM] Received notification 'window/logMessage'.
+2024-01-15 16:53:36.827 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 16:53:36.827 [info] [Trace - 4:53:36 PM] Received notification 'window/logMessage'.
+2024-01-15 16:53:36.827 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 16:53:36.827 [info] [Trace - 4:53:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:54:37.717 [info] [Trace - 4:54:37 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:54:38.988 [info] [Trace - 4:54:38 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:54:38.990 [info] [Trace - 4:54:38 PM] Received notification 'window/logMessage'.
+2024-01-15 16:54:38.990 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:54:38.991 [info] [Trace - 4:54:38 PM] Received notification 'window/logMessage'.
+2024-01-15 16:54:38.991 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:54:39.614 [info] [Trace - 4:54:39 PM] Received notification 'window/logMessage'.
+2024-01-15 16:54:39.614 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 16:54:39.619 [info] [Trace - 4:54:39 PM] Received notification 'window/logMessage'.
+2024-01-15 16:54:39.619 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 16:54:39.620 [info] [Trace - 4:54:39 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:56:58.437 [info] [Trace - 4:56:58 PM] Sending notification 'textDocument/didClose'.
+2024-01-15 16:56:58.441 [info] /home/devdragon/.vscode/extensions/ms-python.mypy-type-checker-2023.6.0/bundled/tool/lsp_server.py:179: DeprecationWarning: 'workspace.get_document' has been deprecated, use 'workspace.get_text_document' instead
+  document = LSP_SERVER.workspace.get_document(params.text_document.uri)
+
+2024-01-15 16:56:58.442 [info] [Trace - 4:56:58 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:57:02.425 [info] [Trace - 4:57:02 PM] Sending notification 'textDocument/didOpen'.
+2024-01-15 16:57:02.427 [info] [Trace - 4:57:02 PM] Received notification 'window/logMessage'.
+2024-01-15 16:57:02.427 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:57:02.427 [info] [Trace - 4:57:02 PM] Received notification 'window/logMessage'.
+2024-01-15 16:57:02.427 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:57:03.047 [info] [Trace - 4:57:03 PM] Received notification 'window/logMessage'.
+2024-01-15 16:57:03.047 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 16:57:03.047 [info] [Trace - 4:57:03 PM] Received notification 'window/logMessage'.
+2024-01-15 16:57:03.047 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 16:57:03.047 [info] [Trace - 4:57:03 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:57:12.593 [info] [Trace - 4:57:12 PM] Sending notification 'textDocument/didChange'.
+2024-01-15 16:57:13.831 [info] [Trace - 4:57:13 PM] Sending notification 'textDocument/didSave'.
+2024-01-15 16:57:13.834 [info] [Trace - 4:57:13 PM] Received notification 'window/logMessage'.
+2024-01-15 16:57:13.834 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:57:13.834 [info] [Trace - 4:57:13 PM] Received notification 'window/logMessage'.
+2024-01-15 16:57:13.834 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:57:14.378 [info] [Trace - 4:57:14 PM] Received notification 'window/logMessage'.
+2024-01-15 16:57:14.378 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 16:57:14.378 [info] [Trace - 4:57:14 PM] Received notification 'window/logMessage'.
+2024-01-15 16:57:14.378 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 16:57:14.378 [info] [Trace - 4:57:14 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:57:29.052 [info] [Trace - 4:57:29 PM] Sending notification 'textDocument/didClose'.
+2024-01-15 16:57:29.054 [info] [Trace - 4:57:29 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 16:57:31.953 [info] [Trace - 4:57:31 PM] Sending notification 'textDocument/didOpen'.
+2024-01-15 16:57:31.984 [info] [Trace - 4:57:31 PM] Received notification 'window/logMessage'.
+2024-01-15 16:57:31.984 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 16:57:32.000 [info] [Trace - 4:57:32 PM] Received notification 'window/logMessage'.
+2024-01-15 16:57:32.000 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 16:57:32.539 [info] [Trace - 4:57:32 PM] Received notification 'window/logMessage'.
+2024-01-15 16:57:32.539 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 16:57:32.539 [info] [Trace - 4:57:32 PM] Received notification 'window/logMessage'.
+2024-01-15 16:57:32.539 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 16:57:32.539 [info] [Trace - 4:57:32 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-15 17:21:25.433 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 17:21:25.433 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 17:21:25.974 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 17:21:25.974 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 17:21:28.553 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 17:21:28.556 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 17:21:29.204 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:12:3:12:3: error: Name "V" is not defined  [name-defined]
+
+2024-01-15 17:21:29.205 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:12:3:12:3: error: Name "V" is not defined  [name-defined]
+
+2024-01-15 17:21:29.857 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 17:21:29.857 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 17:21:30.468 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 17:21:30.469 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 17:21:31.828 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 17:21:31.829 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 17:21:32.434 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:12:3:12:3: error: Name "lhiouhgiogljhh" is not defined  [name-defined]
+
+2024-01-15 17:21:32.459 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:12:3:12:3: error: Name "lhiouhgiogljhh" is not defined  [name-defined]
+
+2024-01-15 17:21:38.036 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 17:21:38.036 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 17:21:38.595 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 17:21:38.595 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 17:21:39.421 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 17:21:39.422 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 17:21:40.031 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 17:21:40.032 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 17:22:35.596 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 17:22:35.597 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 17:22:36.179 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 17:22:36.179 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 17:27:41.571 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 17:27:41.572 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 17:27:42.156 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 17:27:42.156 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 17:27:56.847 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 17:27:56.847 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 17:27:57.381 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 17:27:57.381 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 17:27:58.198 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 17:27:58.200 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 17:27:58.805 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 17:27:58.806 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 17:28:18.626 [info] /home/devdragon/workspace/python/FastApliLearn/evfs/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py
+2024-01-15 17:28:18.626 [info] CWD Server: /home/devdragon/workspace/python/FastApliLearn
+2024-01-15 17:28:19.170 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+
+2024-01-15 17:28:19.170 [info] file:///home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py :
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: error: Skipping analyzing "pymongo": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/devdragon/workspace/python/FastApliLearn/conect_data_base/client.py:1:1:1:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+

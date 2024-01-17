@@ -1,0 +1,14 @@
+2024/01/02-15:34:17.232 24f0c Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.tabnine.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/02-15:34:17.232 24f0c Recovering log #15
+2024/01/02-15:34:17.385 24f0c Reusing old log /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.tabnine.com_0.indexeddb.leveldb/000015.log 
+2024/01/02-15:34:17.385 24f0c Delete type=2 #14
+2024/01/02-15:34:18.670 24f0b Level-0 table #20: started
+2024/01/02-15:34:19.313 24f0b Level-0 table #20: 74819 bytes OK
+2024/01/02-15:34:20.092 24f0b Delete type=0 #15
+2024/01/02-15:34:20.092 24ef6 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 446 : 1
+2024/01/02-15:34:20.092 24ef6 Compacting 1@0 + 1@1 files
+2024/01/02-15:34:20.532 24ef6 Generated table #21@0: 81 keys, 9267 bytes
+2024/01/02-15:34:20.533 24ef6 Compacted 1@0 + 1@1 files => 9267 bytes
+2024/01/02-15:34:20.955 24ef6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/02-15:34:20.955 24ef6 Delete type=2 #20
+2024/01/02-15:34:20.955 24ef6 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 446 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

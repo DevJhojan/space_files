@@ -1,0 +1,10 @@
+2024/01/10-15:24:34.943 6057 Creating DB /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_quiero1app.com_0.indexeddb.leveldb since it was missing.
+2024/01/10-15:24:35.291 6057 Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_quiero1app.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/10-15:24:35.977 6056 Level-0 table #5: started
+2024/01/10-15:24:36.248 6056 Level-0 table #5: 670 bytes OK
+2024/01/10-15:24:36.575 6056 Delete type=0 #3
+2024/01/10-15:24:36.576 6056 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/10-15:24:36.751 605b Level-0 table #7: started
+2024/01/10-15:24:37.037 605b Level-0 table #7: 741 bytes OK
+2024/01/10-15:24:37.363 605b Delete type=0 #4
+2024/01/10-15:24:37.364 6057 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

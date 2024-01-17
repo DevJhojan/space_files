@@ -1,0 +1,33 @@
+2024-01-15 15:59:25.087 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2024-01-15 15:59:26.534 [info] [Info  - 3:59:26 PM] (28968) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2024-01-15 15:59:26.540 [info] [Info  - 3:59:26 PM] (28968) Server root directory: /home/devdragon/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2024-01-15 15:59:26.577 [info] [Info  - 3:59:26 PM] (28968) Starting service instance "FastApliLearn"
+2024-01-15 15:59:26.757 [info] [Info  - 3:59:26 PM] (28968) Setting pythonPath for service "FastApliLearn": "/home/devdragon/workspace/python/FastApliLearn/evfs/bin/python"
+2024-01-15 15:59:26.757 [info] [Info  - 3:59:26 PM] (28968) Setting environmentName for service "FastApliLearn": "3.11.6 (evfs venv)"
+2024-01-15 15:59:26.819 [info] [Info  - 3:59:26 PM] (28968) Assuming Python version 3.11
+2024-01-15 15:59:31.109 [info] [Info  - 3:59:31 PM] (28968) Auto-excluding /home/devdragon/workspace/python/FastApliLearn/evfs
+2024-01-15 15:59:31.115 [info] [Info  - 3:59:31 PM] (28968) Found 9 source files
+2024-01-15 15:59:39.619 [info] [Info  - 3:59:39 PM] (28968) [BG(1)] Long operation: checking: /home/devdragon/workspace/python/FastApliLearn/users/user_db.py (7029ms)
+2024-01-15 15:59:39.623 [info] [Info  - 3:59:39 PM] (28968) [BG(1)] Long operation: analyzing: /home/devdragon/workspace/python/FastApliLearn/users/user_db.py (7329ms)
+2024-01-15 15:59:54.669 [info] [Info  - 3:59:54 PM] (28968) [IDX(2)] Long operation: scan packages /home/devdragon/workspace/python/FastApliLearn (22850ms)
+2024-01-15 15:59:57.910 [info] [Info  - 3:59:57 PM] (28968) Setting pythonPath for service "FastApliLearn": "/home/devdragon/workspace/python/FastApliLearn/evfs/bin/python"
+2024-01-15 15:59:57.910 [info] [Info  - 3:59:57 PM] (28968) Setting environmentName for service "FastApliLearn": "3.11.6 (evfs venv)"
+2024-01-15 15:59:58.019 [info] [Info  - 3:59:58 PM] (28968) Assuming Python version 3.11
+2024-01-15 15:59:58.143 [info] [Info  - 3:59:58 PM] (28968) Auto-excluding /home/devdragon/workspace/python/FastApliLearn/evfs
+2024-01-15 15:59:58.147 [info] [Info  - 3:59:58 PM] (28968) Found 9 source files
+2024-01-15 16:03:00.559 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2024-01-15 16:03:01.343 [info] [Info  - 4:03:01 PM] (31126) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2024-01-15 16:03:01.343 [info] [Info  - 4:03:01 PM] (31126) Server root directory: /home/devdragon/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2024-01-15 16:03:01.352 [info] [Info  - 4:03:01 PM] (31126) Starting service instance "FastApliLearn"
+2024-01-15 16:03:01.443 [info] [Info  - 4:03:01 PM] (31126) Setting pythonPath for service "FastApliLearn": "/home/devdragon/workspace/python/FastApliLearn/evfs/bin/python"
+2024-01-15 16:03:01.445 [info] [Info  - 4:03:01 PM] (31126) Setting environmentName for service "FastApliLearn": "3.11.6 (evfs venv)"
+2024-01-15 16:03:01.487 [info] [Info  - 4:03:01 PM] (31126) Assuming Python version 3.11
+2024-01-15 16:03:01.566 [info] [Info  - 4:03:01 PM] (31126) Auto-excluding /home/devdragon/workspace/python/FastApliLearn/evfs
+2024-01-15 16:03:01.571 [info] [Info  - 4:03:01 PM] (31126) Found 9 source files
+2024-01-15 16:46:27.237 [info] [Info  - 4:46:27 PM] (31126) Found 9 source files
+2024-01-15 17:02:03.612 [info] [Info  - 5:02:03 PM] (31126) Setting pythonPath for service "FastApliLearn": "/home/devdragon/workspace/python/FastApliLearn/evfs/bin/python"
+2024-01-15 17:02:03.612 [info] [Info  - 5:02:03 PM] (31126) Setting environmentName for service "FastApliLearn": "3.11.6 (evfs venv)"
+2024-01-15 17:02:03.660 [info] [Info  - 5:02:03 PM] (31126) Assuming Python version 3.11
+2024-01-15 17:02:03.748 [info] [Info  - 5:02:03 PM] (31126) Auto-excluding /home/devdragon/workspace/python/FastApliLearn/evfs
+2024-01-15 17:02:03.751 [info] [Info  - 5:02:03 PM] (31126) Found 9 source files
+2024-01-15 17:30:35.462 [info] [Error - 5:30:35 PM] Server process exited with code 0.

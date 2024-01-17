@@ -1,0 +1,6 @@
+2024/01/10-19:28:30.414 36825 Creating DB /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb since it was missing.
+2024/01/10-19:28:30.828 36825 Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/10-20:12:24.555 36828 Level-0 table #5: started
+2024/01/10-20:12:24.615 36828 Level-0 table #5: 239972 bytes OK
+2024/01/10-20:12:24.702 36828 Delete type=0 #3
+2024/01/10-20:12:24.703 36828 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

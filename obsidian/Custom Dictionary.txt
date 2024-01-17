@@ -1,16 +1,23 @@
+Anki
 Button
 Chat
+Doulingo
 Entry
 Freeze
 Interactividad
 Label
+MoureDev
+Mouredev
 Multiparadigma
+OAuth2
 Optimización
 PyQt
 Python
 Rossum
 Tkinter
+Uber
 Widgets
+anki
 booleano
 callback
 chat
@@ -18,17 +25,21 @@ cx
 desarrollador
 etc
 generalista
+homologation
 interactuar
 modularidad
 màs
+ocaciones
 optimización
 programaciòn
 programación
 py
 pyinstaller
 python
+rubick
 script
 scripts
 sockets
+tambien
 un
-checksum_v1 = 4b426df19d9c5b4d2218b4b32e5ef8b7
+checksum_v1 = 77dcbbb0db4d9dbebb3b2e685bdb0951

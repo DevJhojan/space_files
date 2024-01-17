@@ -1,0 +1,11 @@
+<nav class="w-64 bg-grey-800 p-4">
+  <ul>
+    @for (item of menuNav; track $index) {
+      <a class="mx-1">
+        <div>
+          <span>{{ item.title }}</span>
+        </div>
+      </a>
+    }
+  </ul>
+</nav>

@@ -1,0 +1,23 @@
+2024/01/03-18:53:37.826 30e05 Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/03-18:53:37.826 30e05 Recovering log #203
+2024/01/03-18:53:37.853 30e05 Reusing old log /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000203.log 
+2024/01/03-18:53:52.977 30e04 Level-0 table #212: started
+2024/01/03-18:53:53.280 30e04 Level-0 table #212: 1250647 bytes OK
+2024/01/03-18:53:53.404 30e04 Delete type=0 #203
+2024/01/03-18:54:31.499 30e05 Compacting 1@1 + 7@2 files
+2024/01/03-18:54:31.873 30e05 Generated table #213@1: 72585 keys, 2290448 bytes
+2024/01/03-18:54:32.055 30e05 Generated table #214@1: 8416 keys, 2167093 bytes
+2024/01/03-18:54:32.260 30e05 Generated table #215@1: 16947 keys, 2202720 bytes
+2024/01/03-18:54:32.498 30e05 Generated table #216@1: 32351 keys, 2186138 bytes
+2024/01/03-18:54:32.747 30e05 Generated table #217@1: 103160 keys, 2255281 bytes
+2024/01/03-18:54:32.941 30e05 Generated table #218@1: 24033 keys, 526793 bytes
+2024/01/03-18:54:32.941 30e05 Compacted 1@1 + 7@2 files => 11628473 bytes
+2024/01/03-18:54:33.172 30e05 compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/01/03-18:54:33.173 30e05 Delete type=2 #209
+2024/01/03-18:54:33.173 30e05 Delete type=2 #212
+2024/01/03-18:54:33.173 30e05 Delete type=2 #206
+2024/01/03-18:54:33.173 30e05 Delete type=2 #202
+2024/01/03-18:54:33.173 30e05 Delete type=2 #195
+2024/01/03-18:54:33.173 30e05 Delete type=2 #208
+2024/01/03-18:54:33.173 30e05 Delete type=2 #207
+2024/01/03-18:54:33.173 30e05 Delete type=2 #205

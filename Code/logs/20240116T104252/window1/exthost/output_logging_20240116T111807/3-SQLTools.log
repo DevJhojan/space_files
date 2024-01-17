@@ -1,0 +1,88 @@
+[1705421889831] INFO  (ext): SQLTools is starting
+[1705421889925] INFO  (ext): initializing language client...
+[1705421889930] INFO  (ext): Registering client for languages [{"scheme":"sqltools"},{"language":"sql","scheme":"untitled"},{"language":"sql","scheme":"file"},{"language":"sql","scheme":"sqltools"}]
+    ns: "lc"
+[1705421889934] INFO  (ext): loading plugins...
+[1705421889934] INFO  (ext): registering Formatter Plugin.
+    plugin: {
+      "name": "Formatter Plugin"
+    }
+[1705421889934] INFO  (ext): registering Connection Manager Plugin.
+    plugin: {
+      "name": "Connection Manager Plugin"
+    }
+[1705421889935] INFO  (ext): registering CodeLens Plugin.
+    plugin: {
+      "name": "CodeLens Plugin",
+      "registeredLanguages": []
+    }
+[1705421889942] INFO  (ext): registering Dependency Manager Plugin.
+    plugin: {
+      "name": "Dependency Manager Plugin",
+      "installingDrivers": []
+    }
+[1705421889950] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1705421889954] INFO  (ext): registering History Manager Plugin.
+    plugin: {
+      "name": "History Manager Plugin"
+    }
+[1705421889954] INFO  (ext): registering Bookmarks Manager Plugin.
+    plugin: {
+      "name": "Bookmarks Manager Plugin"
+    }
+[1705421889956] INFO  (ext): registering Authentication Provider Plugin.
+    plugin: {
+      "name": "Authentication Provider Plugin",
+      "isRegistered": false
+    }
+[1705421889957] INFO  (ext): registering Object Drop-in Provider (plugin).
+    plugin: {
+      "type": "plugin",
+      "name": "Object Drop-in Provider",
+      "isRegistered": false
+    }
+[1705421889962] INFO  (ext): SQLTools activation completed. 127.124983 ms
+[1705421889963] INFO  (ext): Formatter Plugin registered!
+[1705421889963] INFO  (ext): CodeLens Plugin registered!
+[1705421889963] INFO  (ext): Dependency Manager Plugin registered!
+[1705421889963] INFO  (ext): Connection Manager Plugin registered!
+[1705421889963] INFO  (ext): History Manager Plugin registered!
+[1705421889963] INFO  (ext): Bookmarks Manager Plugin registered!
+[1705421889963] INFO  (ext): Authentication Provider Plugin registered!
+[1705421889963] INFO  (ext): Object Drop-in Provider (plugin) registered!
+[1705421890428] INFO  (ls): SQLTools Server started!
+===============================
+Using node runtime?: no
+ExecPath: /opt/visual-studio-code/code 
+===============================
+[1705421890697] INFO  (ext): LanguageClient ready
+    ns: "lc"
+[1705421890704] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1705421890694] INFO  (ls): Initialized with node version:v18.15.0
+[1705421890968] INFO  (ext): EXECUTING COMMAND => sqltools.refreshTree
+[1705421890968] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1705421891933] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1705421891937] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1705421892036] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1705421893370] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1705421893381] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1705421894741] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1705421894749] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1705421894751] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1705422184035] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1705440282442] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1705440905243] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"

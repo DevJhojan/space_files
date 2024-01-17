@@ -1,0 +1,26 @@
+15:59:20 GMT-0500 (Colombia Standard Time) [INFO]: spawning binary with command: /home/devdragon/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.75.0/x86_64-unknown-linux-musl/TabNine args: --tls_config insecure=false --no-lsp=true --client=vscode --client-metadata clientVersion=1.85.1 pluginVersion=3.57.0 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-extension-kind=1 vscode-theme-name=Dark Red vscode-theme-kind=Dark vscode-machine-id=e59b11f8498651854345bd2ff491bcecd04acb309df1729fd283539cb51b9193 vscode-is-new-app-install=false vscode-session-id=e1183448-1b79-4006-9767-71f42ad67c941705352325273 vscode-language=es vscode-app-name=Visual Studio Code vscode-beta-channel-enabled=false vscode-status-customization=unknown vscode-inline-api-enabled=true vscode-code-lens-enabled=true vscode-found-intellicode=false ide-restart-counter=0 
+
+15:59:20 GMT-0500 (Colombia Standard Time) [DEBUG]: capabilities resolved immediately 
+
+15:59:25 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+15:59:40 GMT-0500 (Colombia Standard Time) [ERROR]: Error: Binary request timed out. {"Features":{}} 
+
+15:59:40 GMT-0500 (Colombia Standard Time) [ERROR]: Error: Could not get enabled capabilities 
+
+15:59:41 GMT-0500 (Colombia Standard Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+15:59:51 GMT-0500 (Colombia Standard Time) [ERROR]: Error: Binary request timed out. {"SetState":{"state_type":{"StatusShown":{"id":"see-tabnine-insights_2024-01-15 20:59:29.008502101 UTC","text":"See Tabnine Insights 💪","notification_type":"System","state":null}}}} 
+
+15:59:55 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+16:00:25 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+16:00:55 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+16:01:25 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+16:01:55 GMT-0500 (Colombia Standard Time) [DEBUG]: Updating root paths for project FastApliLearn: ["/home/devdragon/workspace/python/FastApliLearn"] 
+
+16:02:06 GMT-0500 (Colombia Standard Time) [WARN]: assistant is closing 
+

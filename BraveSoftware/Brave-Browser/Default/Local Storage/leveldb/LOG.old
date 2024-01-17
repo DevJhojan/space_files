@@ -1,0 +1,29 @@
+2024/01/16-10:13:03.508 4 Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2024/01/16-10:13:03.511 4 Recovering log #747
+2024/01/16-10:13:03.511 4 Reusing old log /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000747.log 
+2024/01/16-10:31:04.757 4 Level-0 table #751: started
+2024/01/16-10:31:05.095 4 Level-0 table #751: 28329 bytes OK
+2024/01/16-10:31:05.181 4 Delete type=0 #747
+2024/01/16-11:08:55.513 4 Level-0 table #753: started
+2024/01/16-11:08:55.752 4 Level-0 table #753: 31691 bytes OK
+2024/01/16-11:08:55.953 4 Delete type=0 #750
+2024/01/16-11:28:00.895 6 Level-0 table #755: started
+2024/01/16-11:28:01.018 6 Level-0 table #755: 122571 bytes OK
+2024/01/16-11:28:01.116 6 Delete type=0 #752
+2024/01/16-11:28:01.117 6 Compacting 4@0 + 2@1 files
+2024/01/16-11:28:01.265 6 Generated table #756@0: 990 keys, 2100453 bytes
+2024/01/16-11:28:01.359 6 Generated table #757@0: 1964 keys, 1144728 bytes
+2024/01/16-11:28:01.360 6 Compacted 4@0 + 2@1 files => 3245181 bytes
+2024/01/16-11:28:01.451 6 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/01/16-11:28:01.456 6 Delete type=2 #746
+2024/01/16-11:28:01.456 6 Delete type=2 #745
+2024/01/16-11:28:01.456 6 Delete type=2 #753
+2024/01/16-11:28:01.456 6 Delete type=2 #751
+2024/01/16-11:28:01.456 6 Delete type=2 #748
+2024/01/16-11:28:01.456 6 Delete type=2 #755
+2024/01/16-12:30:24.336 6 Level-0 table #759: started
+2024/01/16-12:30:24.387 6 Level-0 table #759: 38263 bytes OK
+2024/01/16-12:30:24.471 6 Delete type=0 #754
+2024/01/16-16:34:04.883 6 Level-0 table #761: started
+2024/01/16-16:34:05.051 6 Level-0 table #761: 47788 bytes OK
+2024/01/16-16:34:05.138 6 Delete type=0 #758

@@ -1,0 +1,23 @@
+2024-01-15 15:59:23.077 [info] MongoDBService initializing...
+2024-01-15 15:59:23.123 [info] MongoDBService initialized {"extensionPath":"/home/devdragon/.vscode/extensions/mongodb.mongodb-vscode-1.4.0","connectionId":null,"hasConnectionString":false,"hasConnectionOptions":false}
+2024-01-15 16:02:14.552 [info] MongoDBService initializing...
+2024-01-15 16:02:17.389 [info] MongoDBService initialized {"extensionPath":"/home/devdragon/.vscode/extensions/mongodb.mongodb-vscode-1.4.0","connectionId":null,"hasConnectionString":false,"hasConnectionOptions":false}
+2024-01-15 16:27:22.360 [info] Changing CliServiceProvider active connection... {"currentConnectionId":null,"newConnectionId":"a17bd7fc-1824-4511-b7c0-01ba4c587e9e","hasConnectionString":true,"hasConnectionOptions":true}
+2024-01-15 16:27:22.597 [info] CliServiceProvider active connection has changed: { connectionId: a17bd7fc-1824-4511-b7c0-01ba4c587e9e }
+2024-01-15 16:27:34.476 [info] Changing CliServiceProvider active connection... {"currentConnectionId":"a17bd7fc-1824-4511-b7c0-01ba4c587e9e","newConnectionId":"a17bd7fc-1824-4511-b7c0-01ba4c587e9e","hasConnectionString":true,"hasConnectionOptions":true}
+2024-01-15 16:27:34.494 [info] CliServiceProvider active connection has changed: { connectionId: a17bd7fc-1824-4511-b7c0-01ba4c587e9e }
+2024-01-15 16:27:53.095 [info] Changing CliServiceProvider active connection... {"currentConnectionId":"a17bd7fc-1824-4511-b7c0-01ba4c587e9e","newConnectionId":null,"hasConnectionString":false,"hasConnectionOptions":false}
+2024-01-15 16:27:53.097 [info] Disconnecting from a previous connection... { connectionId: a17bd7fc-1824-4511-b7c0-01ba4c587e9e }
+2024-01-15 16:27:53.097 [info] CliServiceProvider active connection has changed: { connectionId: null }
+2024-01-15 16:28:48.900 [info] Changing CliServiceProvider active connection... {"currentConnectionId":null,"newConnectionId":"a17bd7fc-1824-4511-b7c0-01ba4c587e9e","hasConnectionString":true,"hasConnectionOptions":true}
+2024-01-15 16:28:48.905 [info] CliServiceProvider active connection has changed: { connectionId: a17bd7fc-1824-4511-b7c0-01ba4c587e9e }
+2024-01-15 16:29:01.510 [info] Changing CliServiceProvider active connection... {"currentConnectionId":"a17bd7fc-1824-4511-b7c0-01ba4c587e9e","newConnectionId":null,"hasConnectionString":false,"hasConnectionOptions":false}
+2024-01-15 16:29:01.512 [info] Disconnecting from a previous connection... { connectionId: a17bd7fc-1824-4511-b7c0-01ba4c587e9e }
+2024-01-15 16:29:01.512 [info] CliServiceProvider active connection has changed: { connectionId: null }
+2024-01-15 16:35:42.921 [info] Changing CliServiceProvider active connection... {"currentConnectionId":null,"newConnectionId":"87cb59e4-6dd5-455b-b4c8-1158237190c9","hasConnectionString":true,"hasConnectionOptions":true}
+2024-01-15 16:35:45.666 [info] CliServiceProvider active connection has changed: { connectionId: 87cb59e4-6dd5-455b-b4c8-1158237190c9 }
+2024-01-15 17:25:11.727 [info] Changing CliServiceProvider active connection... {"currentConnectionId":"87cb59e4-6dd5-455b-b4c8-1158237190c9","newConnectionId":null,"hasConnectionString":false,"hasConnectionOptions":false}
+2024-01-15 17:25:11.729 [info] Disconnecting from a previous connection... { connectionId: 87cb59e4-6dd5-455b-b4c8-1158237190c9 }
+2024-01-15 17:25:12.917 [info] CliServiceProvider active connection has changed: { connectionId: null }
+2024-01-15 17:25:16.317 [info] Changing CliServiceProvider active connection... {"currentConnectionId":null,"newConnectionId":"ed588d9e-ca96-43a5-8e6a-59bbbcfe65af","hasConnectionString":true,"hasConnectionOptions":true}
+2024-01-15 17:25:17.996 [info] CliServiceProvider active connection has changed: { connectionId: ed588d9e-ca96-43a5-8e6a-59bbbcfe65af }

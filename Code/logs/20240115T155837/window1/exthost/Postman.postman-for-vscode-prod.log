@@ -1,0 +1,57 @@
+(2024-01-15T20:59:17.899Z) [info] [extension] Extension activation started: 1705352357876
+(2024-01-15T20:59:20.241Z) [info] [extension] Extension activation completed: 1705352360241
+(2024-01-15T20:59:20.241Z) [info] [extension] Extension activation took 2365ms
+(2024-01-15T21:02:16.400Z) [info] [extension] Extension activation started: 1705352536389
+(2024-01-15T21:02:17.255Z) [info] [extension] Extension activation completed: 1705352537255
+(2024-01-15T21:02:17.255Z) [info] [extension] Extension activation took 866ms
+(2024-01-15T21:40:07.511Z) [info] [extension:sidebar:adapter] fetching a correct html for the view mode: {"viewMode":"sidebar"}
+(2024-01-15T21:40:07.511Z) [info] [extension:htmlProvider] get sidebar HTML
+(2024-01-15T21:40:07.716Z) [info] [extension:workspaceContext] Found the record in the cache
+(2024-01-15T21:40:30.323Z) [info] [extension:tabs:factory] creating a new request tab using the identity: {"tabIdentity":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/collection/27710643-9234c934-0c7d-4050-8e80-9a321fdea08a","params":{}}}
+(2024-01-15T21:40:30.328Z) [info] [extension:htmlProvider] getting request workbench HTML
+(2024-01-15T21:40:30.491Z) [info] [extension:tabs:factory:tab] revealing the tab: {"id":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/collection/27710643-9234c934-0c7d-4050-8e80-9a321fdea08a","params":{}}}
+(2024-01-15T21:40:34.832Z) [warning] [extension:tabs:factory:requestWorkbenchTabController] Received an unexpected message from the webview: {"type":"RESOLVE_VARIABLES","payload":{"objectToResolve":{"description":null},"variables":[],"id":"4ea81d51-b6df-4585-9aff-6dae6968fb53"}}
+(2024-01-15T21:40:35.051Z) [warning] [extension:tabs:factory:requestWorkbenchTabController] Received an unexpected message from the webview: {"type":"RESOLVE_VARIABLES","payload":{"objectToResolve":{"description":null},"variables":[],"id":"81694d54-2491-4e8a-84e5-7185bfed063f"}}
+(2024-01-15T21:40:35.052Z) [warning] [extension:tabs:factory:requestWorkbenchTabController] Received an unexpected message from the webview: {"type":"RESOLVE_VARIABLES","payload":{"objectToResolve":{"description":null},"variables":[],"id":"be479e1a-1a99-4017-b5a1-c4458813d37d"}}
+(2024-01-15T21:40:35.061Z) [warning] [extension:tabs:factory:requestWorkbenchTabController] Received an unexpected message from the webview: {"type":"RESOLVE_VARIABLES","payload":{"objectToResolve":{"description":null},"variables":[],"id":"161b7390-aa65-401f-a6d5-7bd347b24004"}}
+(2024-01-15T21:40:35.606Z) [warning] [extension:tabs:factory:requestWorkbenchTabController] Received an unexpected message from the webview: {"type":"RESOLVE_VARIABLES","payload":{"objectToResolve":{"description":null},"variables":[],"id":"5cb68445-662d-4c07-b1de-33543e01b34a"}}
+(2024-01-15T21:40:35.612Z) [warning] [extension:tabs:factory:requestWorkbenchTabController] Received an unexpected message from the webview: {"type":"RESOLVE_VARIABLES","payload":{"objectToResolve":{"description":null},"variables":[],"id":"de64e2eb-d712-4767-98ec-e30db8be189f"}}
+(2024-01-15T21:40:36.479Z) [info] [extension:tabs:manager] tab has been closed: {"tabId":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/collection/27710643-9234c934-0c7d-4050-8e80-9a321fdea08a","params":{}}}
+(2024-01-15T21:40:36.479Z) [info] [extension:tabs:factory:tab] dispose the tab
+(2024-01-15T21:40:36.579Z) [warning] [extension:tabs:factory:tab] sending a message to a disposed webview panel
+(2024-01-15T21:40:36.813Z) [warning] [extension:tabs:factory:tab] sending a message to a disposed webview panel
+(2024-01-15T21:40:37.142Z) [warning] [extension:tabs:factory:tab] sending a message to a disposed webview panel
+(2024-01-15T21:40:41.770Z) [info] [extension:tabs:factory] creating a new request tab using the identity: {"tabIdentity":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-af9077c4-cc41-44dd-a5e9-79af6b856aa2","params":{}}}
+(2024-01-15T21:40:41.772Z) [info] [extension:htmlProvider] getting request workbench HTML
+(2024-01-15T21:40:41.868Z) [info] [extension:tabs:factory:tab] revealing the tab: {"id":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-af9077c4-cc41-44dd-a5e9-79af6b856aa2","params":{}}}
+(2024-01-15T21:42:39.799Z) [info] [extension:tabs:manager] tab has been closed: {"tabId":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-af9077c4-cc41-44dd-a5e9-79af6b856aa2","params":{}}}
+(2024-01-15T21:42:39.799Z) [info] [extension:tabs:factory:tab] dispose the tab
+(2024-01-15T21:42:43.051Z) [info] [extension:tabs:factory] creating a new request tab using the identity: {"tabIdentity":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-af9077c4-cc41-44dd-a5e9-79af6b856aa2","params":{}}}
+(2024-01-15T21:42:43.052Z) [info] [extension:htmlProvider] getting request workbench HTML
+(2024-01-15T21:42:43.152Z) [info] [extension:tabs:factory:tab] revealing the tab: {"id":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-af9077c4-cc41-44dd-a5e9-79af6b856aa2","params":{}}}
+(2024-01-15T21:42:57.486Z) [info] [extension:tabs:factory] creating a new request tab using the identity: {"tabIdentity":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-9f00b461-20ab-4e60-9457-856cd827b590","params":{}}}
+(2024-01-15T21:42:57.487Z) [info] [extension:htmlProvider] getting request workbench HTML
+(2024-01-15T21:42:57.590Z) [info] [extension:tabs:factory:tab] revealing the tab: {"id":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-9f00b461-20ab-4e60-9457-856cd827b590","params":{}}}
+(2024-01-15T21:43:01.448Z) [info] [extension:tabs:factory:tab] revealing the tab: {"id":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-af9077c4-cc41-44dd-a5e9-79af6b856aa2","params":{}}}
+(2024-01-15T21:43:08.696Z) [info] [extension:tabs:factory] creating a new request tab using the identity: {"tabIdentity":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-5335a1ea-be88-41c4-b5ee-f56049485608","params":{}}}
+(2024-01-15T21:43:08.697Z) [info] [extension:htmlProvider] getting request workbench HTML
+(2024-01-15T21:43:08.803Z) [info] [extension:tabs:factory:tab] revealing the tab: {"id":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-5335a1ea-be88-41c4-b5ee-f56049485608","params":{}}}
+(2024-01-15T21:43:17.865Z) [info] [extension:tabs:factory:tab] revealing the tab: {"id":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-af9077c4-cc41-44dd-a5e9-79af6b856aa2","params":{}}}
+(2024-01-15T21:43:40.598Z) [info] [extension:tabs:manager] tab has been closed: {"tabId":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-af9077c4-cc41-44dd-a5e9-79af6b856aa2","params":{}}}
+(2024-01-15T21:43:40.598Z) [info] [extension:tabs:factory:tab] dispose the tab
+(2024-01-15T21:43:41.617Z) [info] [extension:tabs:manager] tab has been closed: {"tabId":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-5335a1ea-be88-41c4-b5ee-f56049485608","params":{}}}
+(2024-01-15T21:43:41.617Z) [info] [extension:tabs:factory:tab] dispose the tab
+(2024-01-15T21:43:43.391Z) [info] [extension:tabs:manager] tab has been closed: {"tabId":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-9f00b461-20ab-4e60-9457-856cd827b590","params":{}}}
+(2024-01-15T21:43:43.391Z) [info] [extension:tabs:factory:tab] dispose the tab
+(2024-01-15T22:07:38.656Z) [info] [extension:tabs:factory] creating a new request tab using the identity: {"tabIdentity":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-af9077c4-cc41-44dd-a5e9-79af6b856aa2","params":{}}}
+(2024-01-15T22:07:38.657Z) [info] [extension:htmlProvider] getting request workbench HTML
+(2024-01-15T22:07:38.793Z) [info] [extension:tabs:factory:tab] revealing the tab: {"id":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-af9077c4-cc41-44dd-a5e9-79af6b856aa2","params":{}}}
+(2024-01-15T22:29:27.240Z) [info] [extension:tabs:factory] creating a new request tab using the identity: {"tabIdentity":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-5335a1ea-be88-41c4-b5ee-f56049485608","params":{}}}
+(2024-01-15T22:29:27.242Z) [info] [extension:htmlProvider] getting request workbench HTML
+(2024-01-15T22:29:27.361Z) [info] [extension:tabs:factory:tab] revealing the tab: {"id":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-5335a1ea-be88-41c4-b5ee-f56049485608","params":{}}}
+(2024-01-15T22:30:35.273Z) [info] [extension:tabs:factory:tab] dispose the tab
+(2024-01-15T22:30:35.273Z) [info] [extension:tabs:manager] tab has been closed: {"tabId":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-af9077c4-cc41-44dd-a5e9-79af6b856aa2","params":{}}}
+(2024-01-15T22:30:35.273Z) [info] [extension:tabs:factory:tab] dispose the tab
+(2024-01-15T22:30:35.273Z) [info] [extension:tabs:factory:tab] dispose the tab
+(2024-01-15T22:30:35.273Z) [info] [extension:tabs:manager] tab has been closed: {"tabId":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-5335a1ea-be88-41c4-b5ee-f56049485608","params":{}}}
+(2024-01-15T22:30:35.273Z) [info] [extension:tabs:factory:tab] dispose the tab

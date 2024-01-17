@@ -1,0 +1,30 @@
+(2024-01-16T15:43:31.175Z) [info] [extension] Extension activation started: 1705419811163
+(2024-01-16T15:43:33.380Z) [info] [extension] Extension activation completed: 1705419813380
+(2024-01-16T15:43:33.380Z) [info] [extension] Extension activation took 2217ms
+(2024-01-16T16:08:32.830Z) [info] [extension:sidebar:adapter] fetching a correct html for the view mode: {"viewMode":"sidebar"}
+(2024-01-16T16:08:32.830Z) [info] [extension:htmlProvider] get sidebar HTML
+(2024-01-16T16:08:33.062Z) [info] [extension:workspaceContext] Found the record in the cache
+(2024-01-16T16:18:13.544Z) [info] [extension] Extension activation started: 1705421893535
+(2024-01-16T16:18:14.257Z) [info] [extension] Extension activation completed: 1705421894257
+(2024-01-16T16:18:14.257Z) [info] [extension] Extension activation took 722ms
+(2024-01-16T16:21:06.703Z) [info] [extension:sidebar:adapter] fetching a correct html for the view mode: {"viewMode":"sidebar"}
+(2024-01-16T16:21:06.703Z) [info] [extension:htmlProvider] get sidebar HTML
+(2024-01-16T16:21:06.713Z) [info] [extension:workspaceContext] Found the record in the cache
+(2024-01-16T16:21:15.400Z) [info] [extension:tabs:factory] creating a new request tab using the identity: {"tabIdentity":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-af9077c4-cc41-44dd-a5e9-79af6b856aa2","params":{}}}
+(2024-01-16T16:21:15.403Z) [info] [extension:htmlProvider] getting request workbench HTML
+(2024-01-16T16:21:15.615Z) [info] [extension:tabs:factory:tab] revealing the tab: {"id":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-af9077c4-cc41-44dd-a5e9-79af6b856aa2","params":{}}}
+(2024-01-16T16:21:16.792Z) [info] [extension:tabs:factory] creating a new request tab using the identity: {"tabIdentity":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-1b371900-26ac-4909-83bb-e8c6c3c69a8c","params":{}}}
+(2024-01-16T16:21:16.793Z) [info] [extension:htmlProvider] getting request workbench HTML
+(2024-01-16T16:21:16.993Z) [info] [extension:tabs:factory:tab] revealing the tab: {"id":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-1b371900-26ac-4909-83bb-e8c6c3c69a8c","params":{}}}
+(2024-01-16T16:21:19.487Z) [info] [extension:tabs:factory] creating a new request tab using the identity: {"tabIdentity":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-5335a1ea-be88-41c4-b5ee-f56049485608","params":{}}}
+(2024-01-16T16:21:19.488Z) [info] [extension:htmlProvider] getting request workbench HTML
+(2024-01-16T16:21:19.634Z) [info] [extension:tabs:factory:tab] revealing the tab: {"id":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-5335a1ea-be88-41c4-b5ee-f56049485608","params":{}}}
+(2024-01-16T22:11:54.384Z) [info] [extension:tabs:factory:tab] dispose the tab
+(2024-01-16T22:11:54.384Z) [info] [extension:tabs:manager] tab has been closed: {"tabId":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-af9077c4-cc41-44dd-a5e9-79af6b856aa2","params":{}}}
+(2024-01-16T22:11:54.384Z) [info] [extension:tabs:factory:tab] dispose the tab
+(2024-01-16T22:11:54.384Z) [info] [extension:tabs:factory:tab] dispose the tab
+(2024-01-16T22:11:54.384Z) [info] [extension:tabs:manager] tab has been closed: {"tabId":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-1b371900-26ac-4909-83bb-e8c6c3c69a8c","params":{}}}
+(2024-01-16T22:11:54.384Z) [info] [extension:tabs:factory:tab] dispose the tab
+(2024-01-16T22:11:54.385Z) [info] [extension:tabs:factory:tab] dispose the tab
+(2024-01-16T22:11:54.385Z) [info] [extension:tabs:manager] tab has been closed: {"tabId":{"to":"/workspace/cc24dd40-b226-46f6-8321-e61cd7ee691a/request/27710643-5335a1ea-be88-41c4-b5ee-f56049485608","params":{}}}
+(2024-01-16T22:11:54.385Z) [info] [extension:tabs:factory:tab] dispose the tab

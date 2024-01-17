@@ -1,0 +1,21 @@
+2024/01/17-07:56:57.842 4 Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2024/01/17-07:56:57.843 4 Recovering log #772
+2024/01/17-07:56:58.374 4 Reusing old log /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000772.log 
+2024/01/17-09:04:49.603 4 Level-0 table #776: started
+2024/01/17-09:04:49.776 4 Level-0 table #776: 17773 bytes OK
+2024/01/17-09:04:50.072 4 Delete type=0 #772
+2024/01/17-11:34:14.879 6 Level-0 table #778: started
+2024/01/17-11:34:14.945 6 Level-0 table #778: 20087 bytes OK
+2024/01/17-11:34:15.036 6 Delete type=0 #775
+2024/01/17-11:34:15.036 6 Compacting 4@0 + 1@1 files
+2024/01/17-11:34:15.205 6 Generated table #779@0: 10956 keys, 194129 bytes
+2024/01/17-11:34:15.205 6 Compacted 4@0 + 1@1 files => 194129 bytes
+2024/01/17-11:34:15.284 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/17-11:34:15.285 6 Delete type=2 #771
+2024/01/17-11:34:15.285 6 Delete type=2 #778
+2024/01/17-11:34:15.285 6 Delete type=2 #769
+2024/01/17-11:34:15.285 6 Delete type=2 #776
+2024/01/17-11:34:15.285 6 Delete type=2 #773
+2024/01/17-11:41:51.629 6 Level-0 table #781: started
+2024/01/17-11:41:51.915 6 Level-0 table #781: 66115 bytes OK
+2024/01/17-11:41:52.305 6 Delete type=0 #777

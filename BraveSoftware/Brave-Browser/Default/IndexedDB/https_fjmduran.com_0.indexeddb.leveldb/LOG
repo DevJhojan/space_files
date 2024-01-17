@@ -1,0 +1,10 @@
+2024/01/10-15:24:16.575 6057 Creating DB /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fjmduran.com_0.indexeddb.leveldb since it was missing.
+2024/01/10-15:24:17.046 6057 Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fjmduran.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/10-15:24:17.758 6057 Level-0 table #5: started
+2024/01/10-15:24:17.960 6057 Level-0 table #5: 670 bytes OK
+2024/01/10-15:24:18.287 6057 Delete type=0 #3
+2024/01/10-15:24:18.288 6057 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/10-15:24:18.620 606e Level-0 table #7: started
+2024/01/10-15:24:18.808 606e Level-0 table #7: 744 bytes OK
+2024/01/10-15:24:19.144 606e Delete type=0 #4
+2024/01/10-15:24:19.145 605b Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
