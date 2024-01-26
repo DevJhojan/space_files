@@ -1,0 +1,11 @@
+<application>
+  <component name="DbProgressState">
+    <option name="spriteState">
+      <map>
+        <entry key="GOKU_JINDUJUN" value="true" />
+        <entry key="GOKU_FLYING" value="false" />
+        <entry key="GOKU_KI" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

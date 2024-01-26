@@ -1,0 +1,160 @@
+2024-01-18 08:56:11.233 [info] Name: Mypy Type Checker
+2024-01-18 08:56:11.233 [info] Module: mypy
+2024-01-18 08:56:11.233 [info] Python extension loading
+2024-01-18 08:56:11.233 [info] Waiting for interpreter from python extension.
+2024-01-18 08:56:11.233 [info] Python extension loaded
+2024-01-18 08:56:11.233 [info] Server run command: /bin/python /home/devdragon/.vscode/extensions/ms-python.mypy-type-checker-2023.6.0/bundled/tool/lsp_server.py
+2024-01-18 08:56:11.233 [info] Server: Start requested.
+2024-01-18 08:56:37.952 [info] CWD Server: /home/devdragon/.config/qtile
+2024-01-18 08:56:37.953 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/devdragon/.config/qtile",
+        "workspace": "file:///home/devdragon/.config/qtile",
+        "args": [],
+        "severity": {
+            "error": "Error",
+            "note": "Information"
+        },
+        "path": [],
+        "ignorePatterns": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": [],
+        "reportingScope": "file",
+        "preferDaemon": false
+    }
+]
+
+2024-01-18 08:56:37.953 [info] Global settings:
+{
+    "cwd": "${workspaceFolder}",
+    "workspace": "/home/devdragon/.config/qtile",
+    "args": [],
+    "severity": {
+        "error": "Error",
+        "note": "Information"
+    },
+    "path": [],
+    "ignorePatterns": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": [],
+    "reportingScope": "file",
+    "preferDaemon": false
+}
+
+2024-01-18 08:56:37.953 [info] sys.path used to run Server:
+   /home/devdragon/.config/qtile
+   /home/devdragon/.vscode/extensions/ms-python.mypy-type-checker-2023.6.0/bundled/libs
+   /home/devdragon/.vscode/extensions/ms-python.mypy-type-checker-2023.6.0/bundled/tool
+   /usr/lib/python311.zip
+   /usr/lib/python3.11
+   /usr/lib/python3.11/lib-dynload
+   /usr/lib/python3.11/site-packages
+2024-01-18 08:56:37.953 [info] /bin/python -m mypy --version
+2024-01-18 08:56:37.953 [info] CWD Server: /home/devdragon/.config/qtile
+2024-01-18 08:56:41.445 [info] 
+mypy 1.6.1 (compiled: no)
+
+
+2024-01-18 08:56:41.445 [info] Version info for linter running for /home/devdragon/.config/qtile:
+mypy 1.6.1 (compiled: no)
+
+2024-01-18 08:56:41.445 [info] SUPPORTED mypy>=1.0.0
+FOUND mypy==1.6.1
+
+2024-01-18 08:56:41.456 [info] /home/devdragon/.vscode/extensions/ms-python.mypy-type-checker-2023.6.0/bundled/tool/lsp_server.py:165: DeprecationWarning: 'workspace.get_document' has been deprecated, use 'workspace.get_text_document' instead
+  document = LSP_SERVER.workspace.get_document(params.text_document.uri)
+
+2024-01-18 08:56:41.457 [info] [Trace - 8:56:41 AM] Received notification 'window/logMessage'.
+2024-01-18 08:56:41.457 [info] /bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/.config/qtile/settings/keys.py
+2024-01-18 08:56:41.457 [info] [Trace - 8:56:41 AM] Received notification 'window/logMessage'.
+2024-01-18 08:56:41.457 [info] CWD Server: /home/devdragon/.config/qtile
+2024-01-18 08:56:55.692 [info] [Trace - 8:56:55 AM] Received notification 'window/logMessage'.
+2024-01-18 08:56:55.692 [info] file:///home/devdragon/.config/qtile/settings/keys.py :
+/home/devdragon/.config/qtile/settings/keys.py:16:13:16:18: error: Argument 1 to "Key" has incompatible type "object"; expected "list[str]"  [arg-type]
+
+2024-01-18 08:56:55.692 [info] [Trace - 8:56:55 AM] Received notification 'window/logMessage'.
+2024-01-18 08:56:55.692 [info] file:///home/devdragon/.config/qtile/settings/keys.py :
+/home/devdragon/.config/qtile/settings/keys.py:16:13:16:18: error: Argument 1 to "Key" has incompatible type "object"; expected "list[str]"  [arg-type]
+
+2024-01-18 08:56:55.694 [info] [Trace - 8:56:55 AM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-18 09:07:36.243 [info] [Trace - 9:07:36 AM] Sending notification 'textDocument/didChange'.
+2024-01-18 09:07:37.248 [info] [Trace - 9:07:37 AM] Sending notification 'textDocument/didChange'.
+2024-01-18 09:07:37.460 [info] [Trace - 9:07:37 AM] Sending notification 'textDocument/didChange'.
+2024-01-18 09:07:37.540 [info] [Trace - 9:07:37 AM] Sending notification 'textDocument/didChange'.
+2024-01-18 09:07:37.896 [info] [Trace - 9:07:37 AM] Sending notification 'textDocument/didChange'.
+2024-01-18 09:07:38.138 [info] [Trace - 9:07:38 AM] Sending notification 'textDocument/didChange'.
+2024-01-18 09:07:39.170 [info] [Trace - 9:07:39 AM] Sending notification 'textDocument/didChange'.
+2024-01-18 09:07:39.402 [info] [Trace - 9:07:39 AM] Sending notification 'textDocument/didSave'.
+2024-01-18 09:07:39.411 [info] /home/devdragon/.vscode/extensions/ms-python.mypy-type-checker-2023.6.0/bundled/tool/lsp_server.py:172: DeprecationWarning: 'workspace.get_document' has been deprecated, use 'workspace.get_text_document' instead
+  document = LSP_SERVER.workspace.get_document(params.text_document.uri)
+
+2024-01-18 09:07:39.413 [info] [Trace - 9:07:39 AM] Received notification 'window/logMessage'.
+2024-01-18 09:07:39.413 [info] /bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/.config/qtile/settings/keys.py
+2024-01-18 09:07:39.414 [info] [Trace - 9:07:39 AM] Received notification 'window/logMessage'.
+2024-01-18 09:07:39.414 [info] CWD Server: /home/devdragon/.config/qtile
+2024-01-18 09:07:40.030 [info] [Trace - 9:07:40 AM] Sending notification 'textDocument/didChange'.
+2024-01-18 09:07:40.251 [info] [Trace - 9:07:40 AM] Sending notification 'textDocument/didChange'.
+2024-01-18 09:07:40.669 [info] [Trace - 9:07:40 AM] Sending notification 'textDocument/didChange'.
+2024-01-18 09:07:40.880 [info] [Trace - 9:07:40 AM] Received notification 'window/logMessage'.
+2024-01-18 09:07:40.880 [info] file:///home/devdragon/.config/qtile/settings/keys.py :
+
+2024-01-18 09:07:40.881 [info] [Trace - 9:07:40 AM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-18 09:07:41.894 [info] [Trace - 9:07:41 AM] Sending notification 'textDocument/didSave'.
+2024-01-18 09:07:41.899 [info] [Trace - 9:07:41 AM] Received notification 'window/logMessage'.
+2024-01-18 09:07:41.899 [info] /bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/.config/qtile/settings/keys.py
+2024-01-18 09:07:41.900 [info] [Trace - 9:07:41 AM] Received notification 'window/logMessage'.
+2024-01-18 09:07:41.900 [info] CWD Server: /home/devdragon/.config/qtile
+2024-01-18 09:07:43.165 [info] [Trace - 9:07:43 AM] Received notification 'window/logMessage'.
+2024-01-18 09:07:43.165 [info] file:///home/devdragon/.config/qtile/settings/keys.py :
+
+2024-01-18 09:07:43.165 [info] [Trace - 9:07:43 AM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-18 09:07:43.396 [info] [Trace - 9:07:43 AM] Sending notification 'textDocument/didChange'.
+2024-01-18 09:07:44.695 [info] [Trace - 9:07:44 AM] Sending notification 'textDocument/didSave'.
+2024-01-18 09:07:44.698 [info] [Trace - 9:07:44 AM] Received notification 'window/logMessage'.
+2024-01-18 09:07:44.698 [info] /bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/.config/qtile/settings/keys.py
+2024-01-18 09:07:44.698 [info] [Trace - 9:07:44 AM] Received notification 'window/logMessage'.
+2024-01-18 09:07:44.698 [info] CWD Server: /home/devdragon/.config/qtile
+2024-01-18 09:07:44.746 [info] [Trace - 9:07:44 AM] Sending notification 'textDocument/didChange'.
+2024-01-18 09:07:44.889 [info] [Trace - 9:07:44 AM] Received notification 'window/logMessage'.
+2024-01-18 09:07:44.889 [info] file:///home/devdragon/.config/qtile/settings/keys.py :
+/home/devdragon/.config/qtile/settings/keys.py:58:40:58:40: error: invalid syntax. Perhaps you forgot a comma?  [syntax]
+
+2024-01-18 09:07:44.890 [info] [Trace - 9:07:44 AM] Received notification 'window/logMessage'.
+2024-01-18 09:07:44.890 [info] file:///home/devdragon/.config/qtile/settings/keys.py :
+/home/devdragon/.config/qtile/settings/keys.py:58:40:58:40: error: invalid syntax. Perhaps you forgot a comma?  [syntax]
+
+2024-01-18 09:07:44.890 [info] [Trace - 9:07:44 AM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-18 09:07:45.994 [info] [Trace - 9:07:45 AM] Sending notification 'textDocument/didSave'.
+2024-01-18 09:07:45.998 [info] [Trace - 9:07:45 AM] Received notification 'window/logMessage'.
+2024-01-18 09:07:45.998 [info] /bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/.config/qtile/settings/keys.py
+2024-01-18 09:07:45.998 [info] [Trace - 9:07:45 AM] Received notification 'window/logMessage'.
+2024-01-18 09:07:45.998 [info] CWD Server: /home/devdragon/.config/qtile
+2024-01-18 09:07:47.382 [info] [Trace - 9:07:47 AM] Received notification 'window/logMessage'.
+2024-01-18 09:07:47.382 [info] file:///home/devdragon/.config/qtile/settings/keys.py :
+
+2024-01-18 09:07:47.382 [info] [Trace - 9:07:47 AM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-18 09:07:47.702 [info] [Trace - 9:07:47 AM] Sending notification 'textDocument/didChange'.
+2024-01-18 09:07:48.977 [info] [Trace - 9:07:48 AM] Sending notification 'textDocument/didSave'.
+2024-01-18 09:07:48.980 [info] [Trace - 9:07:48 AM] Received notification 'window/logMessage'.
+2024-01-18 09:07:48.980 [info] /bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/.config/qtile/settings/keys.py
+2024-01-18 09:07:48.980 [info] [Trace - 9:07:48 AM] Received notification 'window/logMessage'.
+2024-01-18 09:07:48.980 [info] CWD Server: /home/devdragon/.config/qtile
+2024-01-18 09:07:50.170 [info] [Trace - 9:07:50 AM] Received notification 'window/logMessage'.
+2024-01-18 09:07:50.170 [info] file:///home/devdragon/.config/qtile/settings/keys.py :
+
+2024-01-18 09:07:50.170 [info] [Trace - 9:07:50 AM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-18 09:08:27.604 [info] [Trace - 9:08:27 AM] Sending notification 'textDocument/didClose'.
+2024-01-18 09:08:27.608 [info] /home/devdragon/.vscode/extensions/ms-python.mypy-type-checker-2023.6.0/bundled/tool/lsp_server.py:179: DeprecationWarning: 'workspace.get_document' has been deprecated, use 'workspace.get_text_document' instead
+  document = LSP_SERVER.workspace.get_document(params.text_document.uri)
+
+2024-01-18 09:08:27.608 [info] [Trace - 9:08:27 AM] Received notification 'textDocument/publishDiagnostics'.
+2024-01-18 09:08:30.331 [info] [Trace - 9:08:30 AM] Sending request 'shutdown - (1)'.
+2024-01-18 09:08:30.370 [info] [Trace - 9:08:30 AM] Received response 'shutdown - (1)' in 55ms.
+2024-01-18 09:08:30.370 [info] [Trace - 9:08:30 AM] Sending notification 'exit'.

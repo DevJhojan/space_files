@@ -1,3 +1,15 @@
-2024/01/10-15:38:57.982 27aac Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_sprig.figma.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/01/10-15:38:57.982 27aac Recovering log #4
-2024/01/10-15:38:57.982 27aac Reusing old log /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_sprig.figma.com_0.indexeddb.leveldb/000004.log 
+2024/01/22-16:25:46.518 22bc7 Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_sprig.figma.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/22-16:25:46.518 22bc7 Recovering log #7
+2024/01/22-16:25:46.547 22bc7 Reusing old log /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_sprig.figma.com_0.indexeddb.leveldb/000007.log 
+2024/01/22-17:18:27.693 22bd2 Level-0 table #12: started
+2024/01/22-17:18:28.006 22bd2 Level-0 table #12: 209 bytes OK
+2024/01/22-17:18:28.446 22bd2 Delete type=0 #7
+2024/01/22-17:18:28.486 22bc7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/01/22-17:18:28.486 22bc7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 229 : 1
+2024/01/22-17:18:28.486 22bc7 Compacting 1@1 + 1@2 files
+2024/01/22-17:18:28.661 22bc7 Generated table #13@1: 69 keys, 1222 bytes
+2024/01/22-17:18:28.661 22bc7 Compacted 1@1 + 1@2 files => 1222 bytes
+2024/01/22-17:18:28.868 22bc7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/22-17:18:28.868 22bc7 Delete type=2 #12
+2024/01/22-17:18:28.868 22bc7 Delete type=2 #9
+2024/01/22-17:18:28.977 22bc7 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 229 : 1 .. (end); will stop at (end)

@@ -1,0 +1,280 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry encoding="base64">dw==</entry>
+        <entry encoding="base64">d3E=</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="$USER_HOME$/workspace/projects/completed/bull_quoter">
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/MenuActivity.kt" />
+      <jump line="9" column="42" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/MenuActivity.kt" />
+      <jump line="11" column="32" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/MenuActivity.kt" />
+      <jump line="7" column="4" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="11" column="41" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/MenuActivity.kt" />
+      <jump line="25" column="4" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/MenuActivity.kt" />
+      <jump line="50" column="43" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout/activity_wall.xml" />
+      <jump line="24" column="23" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/MenuActivity.kt" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout/activity_wall.xml" />
+      <jump line="44" column="23" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout/activity_wall.xml" />
+      <jump line="46" column="14" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout/activity_wall.xml" />
+      <jump line="23" column="19" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/values/styles.xml" />
+      <jump line="43" column="14" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout/activity_wall.xml" />
+      <jump line="51" column="12" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout/activity_wall.xml" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout/activity_wall.xml" />
+      <jump line="62" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout/activity_menu.xml" />
+      <jump line="62" column="14" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout/activity_wall.xml" />
+      <jump line="16" column="9" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/MenuActivity.kt" />
+      <jump line="64" column="12" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout/activity_wall.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/build.gradle.kts" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/proguard-rules.pro" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/gradle.properties" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/build.gradle.kts" />
+      <jump line="20" column="16" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/build.gradle.kts" />
+      <jump line="12" column="8" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/build.gradle.kts" />
+      <jump line="41" column="63" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/build.gradle.kts" />
+      <jump line="23" column="12" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/build.gradle.kts" />
+      <jump line="9" column="42" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout/activity_wall.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout/activity_menu.xml" />
+      <jump line="82" column="74" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout/activity_wall.xml" />
+      <jump line="72" column="70" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout/activity_wall.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout-v26/activity_wall.xml" />
+      <jump line="13" column="45" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="21" column="8" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout/activity_wall.xml" />
+      <jump line="55" column="16" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout/activity_wall.xml" />
+      <jump line="174" column="11" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout/activity_wall.xml" />
+      <jump line="161" column="47" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout/activity_wall.xml" />
+      <jump line="0" column="48" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/models_data/DataTypeBrick.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/models_data/DataTypeBrick.kt" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/build.gradle.kts" />
+      <jump line="38" column="4" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/build.gradle.kts" />
+      <jump line="39" column="74" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/build.gradle.kts" />
+      <jump line="36" column="1" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/build.gradle.kts" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/build.gradle.kts" />
+      <jump line="3" column="35" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/build.gradle.kts" />
+      <jump line="3" column="11" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/models_data/DataTypeBrick.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/models_data/DataTypeBrick.kt" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/models_data/DataTypeBrick.kt" />
+      <jump line="16" column="81" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="14" column="10" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="30" column="15" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="29" column="32" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="133" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.9.0/40b9c37d8c614f0a5f87bab78da0ca7c771d1395/kotlin-stdlib-1.9.0-sources.jar!/kotlin/io/FileReadWrite.kt" />
+      <jump line="0" column="0" filename="/android-29/UnavailableSource" />
+      <jump line="21" column="17" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="17" column="33" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/AndroidManifest.xml" />
+      <jump line="39" column="26" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="51" column="99" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="27" column="20" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/data/type_bricks.json" />
+      <jump line="49" column="28" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/AndroidManifest.xml" />
+      <jump line="4" column="18" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="32" column="8" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout/activity_wall.xml" />
+      <jump line="9" column="8" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/AndroidManifest.xml" />
+      <jump line="33" column="34" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="36" column="13" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="28" column="8" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="15" column="22" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/MenuActivity.kt" />
+      <jump line="27" column="9" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/MenuActivity.kt" />
+      <jump line="24" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/MenuActivity.kt" />
+      <jump line="18" column="4" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="37" column="16" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="34" column="16" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="22" column="17" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="19" column="17" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="17" column="25" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="26" column="8" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="20" column="8" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="47" column="18" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="45" column="8" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="4" column="18" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/models_data/DataTypeBrick.kt" />
+      <jump line="53" column="42" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="15" column="39" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="35" column="16" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="52" column="27" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="57" column="32" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="50" column="35" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="46" column="38" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="41" column="50" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="48" column="38" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="44" column="0" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="54" column="28" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="43" column="12" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="23" column="32" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+      <jump line="38" column="57" filename="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/values/strings.xml" timestamp="1705707483290">
+        <mark key="&quot;" line="27" column="51" />
+        <mark key="[" line="26" column="70" />
+        <mark key="]" line="27" column="52" />
+        <mark key="^" line="27" column="52" />
+        <mark key="." line="27" column="51" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1705956858650">
+        <mark key="&quot;" line="0" column="16" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/android-29/UnavailableSource" timestamp="1706042418744">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="/Dummy.lcf" timestamp="1706131605376">
+        <mark key="&quot;" line="0" column="13" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/AndroidManifest.xml" timestamp="1706121438202">
+        <mark key="&quot;" line="29" column="73" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/fragment.kt" timestamp="1706042258728">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/data/type_bricks.json" timestamp="1706045300820">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/MenuActivity.kt" timestamp="1706122910213">
+        <mark key="&quot;" line="36" column="23" />
+        <mark key="[" line="30" column="7" />
+        <mark key="]" line="30" column="7" />
+        <mark key="^" line="14" column="41" />
+        <mark key="." line="30" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout/activity_wall.xml" timestamp="1705957984330">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="'" line="179" column="11" />
+        <mark key="[" line="160" column="38" />
+        <mark key="m" line="152" column="45" />
+        <mark key="]" line="161" column="48" />
+        <mark key="^" line="161" column="48" />
+        <mark key="." line="161" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout-v26/activity_wall.xml" timestamp="1705956773029">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/projects/completed/bull_quoter/app/build.gradle.kts" timestamp="1706042422271">
+        <mark key="&quot;" line="3" column="35" />
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/projects/completed/bull_quoter/build.gradle.kts" timestamp="1706042414492">
+        <mark key="&quot;" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/values/styles.xml" timestamp="1706042399694">
+        <mark key="&quot;" line="23" column="19" />
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="17" column="44" />
+        <mark key="." line="17" column="43" />
+        <mark key="^" line="17" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/res/layout/activity_menu.xml" timestamp="1705616508094">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="'" line="17" column="25" />
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="9" column="42" />
+        <mark key="." line="9" column="41" />
+        <mark key="^" line="9" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/models_data/DataTypeBrick.kt" timestamp="1705959790359">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="7" />
+        <mark key="^" line="4" column="7" />
+        <mark key="." line="4" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/projects/completed/bull_quoter/app/src/main/java/com/jdtp/listed_construction/wall/WallActivity.kt" timestamp="1706133489393">
+        <mark key="[" line="23" column="31" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/projects/completed/bull_quoter/gradle/wrapper/gradle-wrapper.properties" timestamp="1705955593560">
+        <mark key="&quot;" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/projects/completed/bull_quoter/gradle.properties" timestamp="1705955595107">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/projects/completed/bull_quoter/app/proguard-rules.pro" timestamp="1705955596563">
+        <mark key="&quot;" line="1" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1706042311822">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZS53cml0ZVRleHQoIiIpCg==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">b3B0aW9u</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64" />
+      </register>
+      <register name="0" type="CHARACTER_WISE">
+        <text encoding="base64">aWYgKCFkaXJlY3RvcmlvLmV4aXN0cygpKSB7CiAgICAgICAgICAgIGRpcmVjdG9yaW8ubWtkaXJzKCkKICAgICAgICB9</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZS53cml0ZVRleHQoIiIpCg==</text>
+      </register>
+      <register name="q" type="CHARACTER_WISE">
+        <text encoding="base64" />
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICB2YWwgb3B0aW9uOiBMaXN0PERhdGFUeXBlQnJpY2s+Cg==</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBpbml0QWRhcHRlcnMoKQo=</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="CHARACTER_WISE">
+        <text encoding="base64">PSBsaXN0T2YoCiAgICAgICAgIm9wdGlvbiAxIiwKICAgICAgICAib3B0aW9uIDIiCiAgICAp</text>
+      </register>
+      <register name="7" type="CHARACTER_WISE">
+        <text encoding="base64">IC8qCiAgICAgICAgKgogICAgICAgICogKi8=</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBhdGhFID0gb3BlbkZpbGVPdXRwdXQocGF0aCwgQ29udGV4dC5NT0RFX1BSSVZBVEUpCg==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGpzb24gPSBKc29uLmVuY29kZVRvU3RyaW5nKGJyaWNrcykKICAgICAgICAgICAgdmFsIHBhdGhFID0gb3BlbkZpbGVPdXRwdXQocGF0aCwgQ29udGV4dC5NT0RFX1BSSVZBVEUpCg==</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">d3E=</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

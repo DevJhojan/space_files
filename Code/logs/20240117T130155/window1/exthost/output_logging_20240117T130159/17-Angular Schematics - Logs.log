@@ -1,0 +1,16 @@
+[Info - 1:02:14 PM] Starting workspace configuration loading.
+[Info - 1:02:14 PM] 1 workspace folder(s) detected.
+[Info - 1:02:14 PM] Loading configuration of ".config" workspace folder.
+[Info - 1:02:14 PM] Loading extension configuration
+[Info - 1:02:14 PM] Loading extension configuration from VS Code settings.
+[Info - 1:02:14 PM] Loading dependencies config from package.json.
+[Info - 1:02:16 PM] Found: /home/devdragon/.config/package.json
+[Info - 1:02:16 PM] Found: /home/devdragon/package.json
+[Info - 1:02:16 PM] Found: /home/package.json
+[Info - 1:02:20 PM] Loading format configuration
+[Info - 1:02:20 PM] Loading schematics.
+[Info - 1:02:20 PM] 0 schematic(s) loaded.
+[Warning - 1:02:20 PM] No angular.json found
+[Info - 1:02:20 PM] Configuration of all workspace folders is now ready. Duration: 5398ms
+[Info - 2:17:52 PM] Reloading format configuration because VS Code settings changed.
+[Info - 2:18:12 PM] Reloading format configuration because VS Code settings changed.

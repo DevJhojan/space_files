@@ -1,0 +1,37 @@
+2024-01-18 08:56:11.052 [info] El experimento \"pythonaa\" está activo
+2024-01-18 08:56:11.052 [info] El experimento \"pythonRecommendTensorboardExtcf\" está activo
+2024-01-18 08:56:11.052 [info] El experimento \"pythonREPLSmartSend\" está activo
+2024-01-18 08:56:11.052 [info] El experimento \"pythonSurveyNotificationcf\" está activo
+2024-01-18 08:56:11.052 [info] El experimento \"pythonTerminalEnvVarActivationcf\" está activo
+2024-01-18 08:56:11.052 [info] El experimento \"pythonTestAdapter\" está activo
+2024-01-18 08:56:11.052 [info] Default formatter is set to null for workspace /home/devdragon/.config/qtile
+2024-01-18 08:56:11.052 [info] Test server listening.
+2024-01-18 08:56:11.052 [info] > conda info --json
+2024-01-18 08:56:11.052 [info] Ruta de acceso del intérprete de Python: /bin/python
+2024-01-18 08:56:11.052 [info] Send text to terminal: printenv > "/tmp/tmp-13864SnP8VCRfvdhA.txt"
+2024-01-18 08:56:11.089 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-18 08:56:11.089 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-18 08:56:11.089 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-18 08:56:11.147 [info] Found: /bin/python --> /bin/python3.11
+2024-01-18 08:56:11.233 [info] Found: /bin/python3 --> /bin/python3.11
+2024-01-18 08:56:11.262 [info] Found: /bin/python3.11 --> /bin/python3.11
+2024-01-18 08:56:11.361 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-18 08:56:11.386 [info] Found: /sbin/python --> /sbin/python3.11
+2024-01-18 08:56:11.457 [info] Found: /sbin/python3 --> /sbin/python3.11
+2024-01-18 08:56:11.462 [info] Found: /sbin/python3.11 --> /sbin/python3.11
+2024-01-18 08:56:11.484 [info] Found: /usr/bin/python --> /usr/bin/python3.11
+2024-01-18 08:56:11.484 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2024-01-18 08:56:11.484 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2024-01-18 08:56:11.670 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-18 08:56:12.812 [info] Found: /usr/sbin/python --> /usr/sbin/python3.11
+2024-01-18 08:56:12.812 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.11
+2024-01-18 08:56:12.813 [info] Found: /usr/sbin/python3.11 --> /usr/sbin/python3.11
+2024-01-18 08:56:12.833 [info] > /sbin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-18 08:56:12.864 [info] > /usr/bin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-18 08:56:12.906 [info] > /usr/sbin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-18 08:56:14.252 [info] Iniciando el servidor de lenguaje Pylance.
+2024-01-18 09:07:39.654 [info] Discover tests for workspace name: qtile - uri: /home/devdragon/.config/qtile/settings/keys.py
+2024-01-18 09:07:42.152 [info] Discover tests for workspace name: qtile - uri: /home/devdragon/.config/qtile/settings/keys.py
+2024-01-18 09:07:44.947 [info] Discover tests for workspace name: qtile - uri: /home/devdragon/.config/qtile/settings/keys.py
+2024-01-18 09:07:46.252 [info] Discover tests for workspace name: qtile - uri: /home/devdragon/.config/qtile/settings/keys.py
+2024-01-18 09:07:49.229 [info] Discover tests for workspace name: qtile - uri: /home/devdragon/.config/qtile/settings/keys.py

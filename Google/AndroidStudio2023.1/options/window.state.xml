@@ -1,0 +1,31 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="682" y="366" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1274" height="192" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1274" height="192" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1274" height="192" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1274" height="192" />
+    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1274" height="192" />
+    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1274" height="192" />
+    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1274" height="192" />
+    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1274" height="192" />
+  </component>
+  <component name="WindowManager">
+    <frame x="3" y="31" width="1358" height="732" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="469" y="169" width="426" height="456" key="FileChooserDialogImpl" timestamp="1705517410186">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="469" y="169" width="426" height="456" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1600.900" timestamp="1705517410186" />
+    <state x="887" y="558" width="456" height="115" key="ProcessPopupWindow" timestamp="1705959641519">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="888" y="559" width="454" height="113" key="ProcessPopupWindow/0.0.1366.768/1366.0.1600.900@0.0.1366.768" timestamp="1705529444800" />
+    <state x="887" y="558" width="456" height="115" key="ProcessPopupWindow/0.0.1366.768@0.0.1366.768" timestamp="1705959641519" />
+    <state x="682" y="397" width="1358" height="732" key="WELCOME_SCREEN" timestamp="1705517099617">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="682" y="397" width="1358" height="732" key="WELCOME_SCREEN/0.0.1366.768/1366.0.1600.900" timestamp="1705517099617" />
+  </component>
+</application>

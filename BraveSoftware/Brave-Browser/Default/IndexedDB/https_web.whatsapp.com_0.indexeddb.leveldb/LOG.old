@@ -1,23 +1,22 @@
-2024/01/03-18:53:37.826 30e05 Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/01/03-18:53:37.826 30e05 Recovering log #203
-2024/01/03-18:53:37.853 30e05 Reusing old log /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000203.log 
-2024/01/03-18:53:52.977 30e04 Level-0 table #212: started
-2024/01/03-18:53:53.280 30e04 Level-0 table #212: 1250647 bytes OK
-2024/01/03-18:53:53.404 30e04 Delete type=0 #203
-2024/01/03-18:54:31.499 30e05 Compacting 1@1 + 7@2 files
-2024/01/03-18:54:31.873 30e05 Generated table #213@1: 72585 keys, 2290448 bytes
-2024/01/03-18:54:32.055 30e05 Generated table #214@1: 8416 keys, 2167093 bytes
-2024/01/03-18:54:32.260 30e05 Generated table #215@1: 16947 keys, 2202720 bytes
-2024/01/03-18:54:32.498 30e05 Generated table #216@1: 32351 keys, 2186138 bytes
-2024/01/03-18:54:32.747 30e05 Generated table #217@1: 103160 keys, 2255281 bytes
-2024/01/03-18:54:32.941 30e05 Generated table #218@1: 24033 keys, 526793 bytes
-2024/01/03-18:54:32.941 30e05 Compacted 1@1 + 7@2 files => 11628473 bytes
-2024/01/03-18:54:33.172 30e05 compacted to: files[ 0 0 6 0 0 0 0 ]
-2024/01/03-18:54:33.173 30e05 Delete type=2 #209
-2024/01/03-18:54:33.173 30e05 Delete type=2 #212
-2024/01/03-18:54:33.173 30e05 Delete type=2 #206
-2024/01/03-18:54:33.173 30e05 Delete type=2 #202
-2024/01/03-18:54:33.173 30e05 Delete type=2 #195
-2024/01/03-18:54:33.173 30e05 Delete type=2 #208
-2024/01/03-18:54:33.173 30e05 Delete type=2 #207
-2024/01/03-18:54:33.173 30e05 Delete type=2 #205
+2024/01/04-14:14:46.688 c3a3 Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/04-14:14:46.688 c3a3 Recovering log #211
+2024/01/04-14:14:47.098 c3a3 Reusing old log /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000211.log 
+2024/01/04-14:19:59.770 c3a3 Level-0 table #221: started
+2024/01/04-14:20:00.008 c3a3 Level-0 table #221: 1476918 bytes OK
+2024/01/04-14:20:00.224 c3a3 Delete type=0 #211
+2024/01/04-14:20:03.684 c3a2 Compacting 1@1 + 6@2 files
+2024/01/04-14:20:04.184 c3a2 Generated table #222@1: 74861 keys, 2293062 bytes
+2024/01/04-14:20:04.545 c3a2 Generated table #223@1: 9566 keys, 2165425 bytes
+2024/01/04-14:20:04.761 c3a2 Generated table #224@1: 15704 keys, 2198375 bytes
+2024/01/04-14:20:05.107 c3a2 Generated table #225@1: 28614 keys, 2185645 bytes
+2024/01/04-14:20:05.468 c3a2 Generated table #226@1: 103159 keys, 2255866 bytes
+2024/01/04-14:20:05.694 c3a2 Generated table #227@1: 29464 keys, 643929 bytes
+2024/01/04-14:20:05.694 c3a2 Compacted 1@1 + 6@2 files => 11742302 bytes
+2024/01/04-14:20:05.780 c3a2 compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/01/04-14:20:05.781 c3a2 Delete type=2 #215
+2024/01/04-14:20:05.781 c3a2 Delete type=2 #217
+2024/01/04-14:20:05.781 c3a2 Delete type=2 #213
+2024/01/04-14:20:05.781 c3a2 Delete type=2 #221
+2024/01/04-14:20:05.781 c3a2 Delete type=2 #216
+2024/01/04-14:20:05.781 c3a2 Delete type=2 #218
+2024/01/04-14:20:05.781 c3a2 Delete type=2 #214

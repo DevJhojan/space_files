@@ -1,0 +1,36 @@
+2024-01-17 13:02:04.536 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2024-01-17 13:02:05.490 [info] [Info  - 1:02:05 PM] (112145) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2024-01-17 13:02:05.491 [info] [Info  - 1:02:05 PM] (112145) Server root directory: /home/devdragon/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2024-01-17 13:02:05.501 [info] [Info  - 1:02:05 PM] (112145) Starting service instance ".config"
+2024-01-17 13:02:05.601 [info] [Info  - 1:02:05 PM] (112145) Setting pythonPath for service ".config": "/bin/python"
+2024-01-17 13:02:05.601 [info] [Info  - 1:02:05 PM] (112145) Setting environmentName for service ".config": "3.11.6 (global)"
+2024-01-17 13:02:05.657 [info] [Info  - 1:02:05 PM] (112145) Assuming Python version 3.11
+2024-01-17 13:02:06.396 [info] [Info  - 1:02:06 PM] (112145) Found 623 source files
+2024-01-17 13:02:15.223 [info] [Info  - 1:02:15 PM] (112145) Setting pythonPath for service ".config": "/bin/python"
+2024-01-17 13:02:16.246 [info] [Info  - 1:02:16 PM] (112145) Setting environmentName for service ".config": "3.11.6 (global)"
+2024-01-17 13:02:16.331 [info] [Info  - 1:02:16 PM] (112145) Assuming Python version 3.11
+2024-01-17 13:02:16.399 [info] [Info  - 1:02:16 PM] (112145) Found 623 source files
+2024-01-17 13:02:16.615 [info] [Info  - 1:02:16 PM] (112145) [IDX(2)] Long operation: scan packages /home/devdragon/.config (7096ms)
+2024-01-17 13:02:33.763 [info] [Info  - 1:02:33 PM] (112145) [IDX(2)] Long operation: scan packages /home/devdragon/.config (18789ms)
+2024-01-17 13:02:43.146 [info] [Info  - 1:02:43 PM] (112145) [IDX(2)] Long operation: index execution environment /home/devdragon/.config (8956ms)
+2024-01-17 13:02:43.177 [info] [Info  - 1:02:43 PM] (112145) [IDX(2)] Long operation: index packages /home/devdragon/.config (9316ms)
+2024-01-17 14:17:54.459 [info] [Info  - 2:17:54 PM] (112145) Setting pythonPath for service ".config": "/bin/python"
+2024-01-17 14:17:54.619 [info] [Info  - 2:17:54 PM] (112145) Setting environmentName for service ".config": "3.11.6 (global)"
+2024-01-17 14:17:59.311 [info] [Info  - 2:17:59 PM] (112145) Assuming Python version 3.11
+2024-01-17 14:18:10.910 [info] [Error - 2:18:10 PM] (112145) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2024-01-17 14:18:14.416 [info] [Info  - 2:18:14 PM] (112145) Found 623 source files
+2024-01-17 14:18:14.517 [info] [Info  - 2:18:14 PM] (112145) Setting pythonPath for service ".config": "/bin/python"
+2024-01-17 14:18:14.517 [info] [Info  - 2:18:14 PM] (112145) Setting environmentName for service ".config": "3.11.6 (global)"
+2024-01-17 14:18:14.555 [info] [Info  - 2:18:14 PM] (112145) Assuming Python version 3.11
+2024-01-17 14:18:14.817 [info] [Info  - 2:18:14 PM] (112145) Found 623 source files
+2024-01-17 14:18:17.653 [info] [Info  - 2:18:17 PM] (112145) [BG(1)] Long operation: analyzing: /home/devdragon/.config/qtile/settings/groups.py (3191ms)
+2024-01-17 14:18:20.236 [info] [Info  - 2:18:20 PM] (112145) [BG(1)] Long operation: analyzing: /home/devdragon/.config/qtile/settings/groups.py (2044ms)
+2024-01-17 14:18:30.374 [info] [Info  - 2:18:30 PM] (112145) [IDX(3)] Long operation: scan packages /home/devdragon/.config (14381ms)
+2024-01-17 14:18:35.784 [info] [Info  - 2:18:35 PM] (112145) [IDX(3)] Long operation: index packages /home/devdragon/.config (3632ms)
+2024-01-17 14:19:10.378 [info] [Error - 2:19:10 PM] Server process exited with code 0.

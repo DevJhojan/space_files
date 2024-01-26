@@ -1,0 +1,79 @@
+2024-01-17 13:02:03.970 [info] Name: Mypy Type Checker
+2024-01-17 13:02:03.970 [info] Module: mypy
+2024-01-17 13:02:03.970 [info] Python extension loading
+2024-01-17 13:02:03.970 [info] Waiting for interpreter from python extension.
+2024-01-17 13:02:03.970 [info] Python extension loaded
+2024-01-17 13:02:03.970 [info] Server run command: /bin/python /home/devdragon/.vscode/extensions/ms-python.mypy-type-checker-2023.6.0/bundled/tool/lsp_server.py
+2024-01-17 13:02:03.970 [info] Server: Start requested.
+2024-01-17 13:02:04.856 [info] CWD Server: /home/devdragon/.config
+2024-01-17 13:02:04.856 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/devdragon/.config",
+        "workspace": "file:///home/devdragon/.config",
+        "args": [],
+        "severity": {
+            "error": "Error",
+            "note": "Information"
+        },
+        "path": [],
+        "ignorePatterns": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": [],
+        "reportingScope": "file",
+        "preferDaemon": false
+    }
+]
+
+2024-01-17 13:02:04.856 [info] Global settings:
+{
+    "cwd": "${workspaceFolder}",
+    "workspace": "/home/devdragon/.config",
+    "args": [],
+    "severity": {
+        "error": "Error",
+        "note": "Information"
+    },
+    "path": [],
+    "ignorePatterns": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": [],
+    "reportingScope": "file",
+    "preferDaemon": false
+}
+
+2024-01-17 13:02:04.859 [info] sys.path used to run Server:
+   /home/devdragon/.config
+   /home/devdragon/.vscode/extensions/ms-python.mypy-type-checker-2023.6.0/bundled/libs
+   /home/devdragon/.vscode/extensions/ms-python.mypy-type-checker-2023.6.0/bundled/tool
+   /usr/lib/python311.zip
+   /usr/lib/python3.11
+   /usr/lib/python3.11/lib-dynload
+   /usr/lib/python3.11/site-packages
+2024-01-17 13:02:04.859 [info] /bin/python -m mypy --version
+2024-01-17 13:02:04.859 [info] CWD Server: /home/devdragon/.config
+2024-01-17 13:02:05.139 [info] 
+mypy 1.6.1 (compiled: no)
+
+
+2024-01-17 13:02:05.139 [info] Version info for linter running for /home/devdragon/.config:
+mypy 1.6.1 (compiled: no)
+
+2024-01-17 13:02:05.139 [info] SUPPORTED mypy>=1.0.0
+FOUND mypy==1.6.1
+
+2024-01-17 13:02:05.159 [info] /home/devdragon/.vscode/extensions/ms-python.mypy-type-checker-2023.6.0/bundled/tool/lsp_server.py:165: DeprecationWarning: 'workspace.get_document' has been deprecated, use 'workspace.get_text_document' instead
+  document = LSP_SERVER.workspace.get_document(params.text_document.uri)
+
+2024-01-17 13:02:05.172 [info] [Trace - 1:02:05 PM] Received notification 'window/logMessage'.
+2024-01-17 13:02:05.172 [info] /bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/devdragon/.config/qtile/settings/groups.py
+2024-01-17 13:02:05.173 [info] [Trace - 1:02:05 PM] Received notification 'window/logMessage'.
+2024-01-17 13:02:05.173 [info] CWD Server: /home/devdragon/.config
+2024-01-17 13:02:33.245 [info] file:///home/devdragon/.config/qtile/settings/groups.py :
+
