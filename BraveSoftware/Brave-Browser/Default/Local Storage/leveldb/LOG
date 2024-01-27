@@ -1,3 +1,28 @@
-2024/01/25-21:09:15.961 4 Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2024/01/25-21:09:15.963 4 Recovering log #925
-2024/01/25-21:09:15.964 4 Reusing old log /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000925.log 
+2024/01/27-08:08:56.430 4 Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2024/01/27-08:08:57.562 4 Recovering log #951
+2024/01/27-08:08:57.752 4 Reusing old log /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000951.log 
+2024/01/27-08:10:02.572 4 Level-0 table #955: started
+2024/01/27-08:10:03.343 4 Level-0 table #955: 130398 bytes OK
+2024/01/27-08:10:04.268 4 Delete type=0 #951
+2024/01/27-08:10:04.269 4 Compacting 4@0 + 3@1 files
+2024/01/27-08:10:05.478 4 Generated table #956@0: 1142 keys, 2127744 bytes
+2024/01/27-08:10:06.754 4 Generated table #957@0: 2272 keys, 3517448 bytes
+2024/01/27-08:10:07.379 4 Generated table #958@0: 33 keys, 85887 bytes
+2024/01/27-08:10:07.379 4 Compacted 4@0 + 3@1 files => 5731079 bytes
+2024/01/27-08:10:08.154 4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/01/27-08:10:08.156 4 Delete type=2 #952
+2024/01/27-08:10:08.268 4 Delete type=2 #949
+2024/01/27-08:10:08.268 4 Delete type=2 #944
+2024/01/27-08:10:08.268 4 Delete type=2 #945
+2024/01/27-08:10:08.268 4 Delete type=2 #955
+2024/01/27-08:10:08.268 4 Delete type=2 #943
+2024/01/27-08:10:08.268 4 Delete type=2 #947
+2024/01/27-08:36:02.181 4 Level-0 table #960: started
+2024/01/27-08:36:02.401 4 Level-0 table #960: 48080 bytes OK
+2024/01/27-08:36:02.792 4 Delete type=0 #954
+2024/01/27-10:37:49.891 6 Level-0 table #962: started
+2024/01/27-10:37:49.947 6 Level-0 table #962: 47488 bytes OK
+2024/01/27-10:37:50.033 6 Delete type=0 #959
+2024/01/27-11:30:36.089 6 Level-0 table #964: started
+2024/01/27-11:30:36.436 6 Level-0 table #964: 30472 bytes OK
+2024/01/27-11:30:36.851 6 Delete type=0 #961

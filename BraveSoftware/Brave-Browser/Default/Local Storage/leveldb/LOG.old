@@ -1,29 +1,6 @@
-2024/01/25-11:01:08.624 4 Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2024/01/25-11:01:10.534 4 Recovering log #912
-2024/01/25-11:01:11.075 4 Reusing old log /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000912.log 
-2024/01/25-11:37:35.878 6 Level-0 table #916: started
-2024/01/25-11:37:35.973 6 Level-0 table #916: 13531 bytes OK
-2024/01/25-11:37:36.058 6 Delete type=0 #912
-2024/01/25-12:33:35.878 6 Level-0 table #918: started
-2024/01/25-12:33:35.932 6 Level-0 table #918: 45843 bytes OK
-2024/01/25-12:33:36.153 6 Delete type=0 #915
-2024/01/25-12:33:36.154 6 Compacting 4@0 + 2@1 files
-2024/01/25-12:33:36.447 6 Generated table #919@0: 1088 keys, 2119460 bytes
-2024/01/25-12:33:36.798 6 Generated table #920@0: 2242 keys, 1152501 bytes
-2024/01/25-12:33:36.798 6 Compacted 4@0 + 2@1 files => 3271961 bytes
-2024/01/25-12:33:36.944 6 compacted to: files[ 0 2 1 0 0 0 0 ]
-2024/01/25-12:33:36.945 6 Delete type=2 #918
-2024/01/25-12:33:36.945 6 Delete type=2 #916
-2024/01/25-12:33:36.945 6 Delete type=2 #913
-2024/01/25-12:33:36.945 6 Delete type=2 #910
-2024/01/25-12:33:36.945 6 Delete type=2 #908
-2024/01/25-12:33:36.945 6 Delete type=2 #907
-2024/01/25-12:34:35.878 6 Level-0 table #922: started
-2024/01/25-12:34:36.142 6 Level-0 table #922: 2445582 bytes OK
-2024/01/25-12:34:36.233 6 Delete type=0 #917
-2024/01/25-12:38:22.176 6 Level-0 table #924: started
-2024/01/25-12:38:22.256 6 Level-0 table #924: 121852 bytes OK
-2024/01/25-12:38:22.420 6 Delete type=0 #921
-2024/01/25-13:40:08.057 6 Level-0 table #926: started
-2024/01/25-13:40:08.371 6 Level-0 table #926: 21060 bytes OK
-2024/01/25-13:40:08.650 6 Delete type=0 #923
+2024/01/26-17:13:37.834 4 Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2024/01/26-17:13:37.836 4 Recovering log #948
+2024/01/26-17:13:37.836 4 Reusing old log /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000948.log 
+2024/01/26-18:49:35.155 6 Level-0 table #952: started
+2024/01/26-18:49:35.401 6 Level-0 table #952: 148290 bytes OK
+2024/01/26-18:49:35.663 6 Delete type=0 #948

@@ -1,3 +1,15 @@
-2024/01/20-11:08:19.922 a882 Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/01/20-11:08:19.923 a882 Recovering log #27
-2024/01/20-11:08:19.923 a882 Reusing old log /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000027.log 
+2024/01/20-13:04:24.201 a87f Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/20-13:04:24.201 a87f Recovering log #27
+2024/01/20-13:04:25.270 a87f Reusing old log /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000027.log 
+2024/01/20-13:04:42.127 a880 Level-0 table #32: started
+2024/01/20-13:04:42.853 a880 Level-0 table #32: 2809605 bytes OK
+2024/01/20-13:04:43.442 a880 Delete type=0 #27
+2024/01/20-13:11:14.694 a880 Compacting 1@1 + 1@2 files
+2024/01/20-13:11:15.062 a880 Generated table #33@1: 247 keys, 682251 bytes
+2024/01/20-13:11:15.062 a880 Compacted 1@1 + 1@2 files => 682251 bytes
+2024/01/20-13:11:15.293 a880 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/20-13:11:15.293 a880 Delete type=2 #29
+2024/01/20-13:11:15.293 a880 Delete type=2 #32
+2024/01/20-13:39:17.409 a880 Level-0 table #35: started
+2024/01/20-13:39:17.630 a880 Level-0 table #35: 2829871 bytes OK
+2024/01/20-13:39:17.703 a880 Delete type=0 #31
