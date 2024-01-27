@@ -1,2 +1,0 @@
-# Mi configuración de Qtile
-

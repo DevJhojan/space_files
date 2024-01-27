@@ -1,7 +1,0 @@
-2024-01-17 12:58:09.794 [info] Name: Mypy Type Checker
-2024-01-17 12:58:09.794 [info] Module: mypy
-2024-01-17 12:58:09.794 [info] Python extension loading
-2024-01-17 12:58:09.794 [info] Waiting for interpreter from python extension.
-2024-01-17 12:58:09.794 [info] Python extension loaded
-2024-01-17 12:58:09.850 [info] Server run command: /bin/python /home/devdragon/.vscode/extensions/ms-python.mypy-type-checker-2023.6.0/bundled/tool/lsp_server.py
-2024-01-17 12:58:09.850 [info] Server: Start requested.

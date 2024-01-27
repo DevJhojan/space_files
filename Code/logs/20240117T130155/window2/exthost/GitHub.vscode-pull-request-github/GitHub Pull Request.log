@@ -1,6 +1,0 @@
-2024-01-17 14:18:22.584 [warning] /home/devdragon/.ssh/config: ENOENT: no such file or directory, open '/home/devdragon/.ssh/config'
-2024-01-17 14:18:22.584 [info] Activation> Extension version: 0.78.1
-2024-01-17 14:18:22.665 [info] Looking for git repository
-2024-01-17 14:18:22.665 [info] Found 0 repositories during activation
-2024-01-17 14:18:22.665 [info] Git repository found, initializing review manager and pr tree view.
-2024-01-17 14:18:22.666 [info] Registering git provider

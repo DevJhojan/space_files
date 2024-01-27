@@ -1,9 +1,0 @@
-Language server is set to "Default". Pylance is used as current language server.
-Acquiring model
-vs-intellicode-python was passed a model: {}.
-Acquiring model 'intellisense-members-lstm-pylance' for python
-Querying IntelliCode service for available models.
-Couldn't reach service Error Message: getaddrinfo EAI_AGAIN prod.intellicode.vsengsaas.visualstudio.com, (Error)
-Could not reach the IntelliCode service. Checking the local model cache.
-Recent model was found in cache.
-Activating Python extension
