@@ -1,6 +1,0 @@
-2024/01/04-18:12:23.350 c3a2 Creating DB /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_es.duolingo.com_0.indexeddb.leveldb since it was missing.
-2024/01/04-18:12:23.696 c3a2 Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_es.duolingo.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/01/04-18:20:35.798 c3a3 Level-0 table #5: started
-2024/01/04-18:20:36.048 c3a3 Level-0 table #5: 19402 bytes OK
-2024/01/04-18:20:36.193 c3a3 Delete type=0 #3
-2024/01/04-18:20:36.193 c3a3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

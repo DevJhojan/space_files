@@ -1,9 +1,0 @@
-2023/12/24-12:07:14.323 614 Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/12/24-12:07:14.323 614 Recovering log #26
-2023/12/24-12:07:14.323 614 Reusing old log /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000026.log 
-2023/12/24-12:07:16.402 615 Compacting 1@1 + 1@2 files
-2023/12/24-12:07:16.704 615 Generated table #29@1: 1763 keys, 94127 bytes
-2023/12/24-12:07:16.704 615 Compacted 1@1 + 1@2 files => 94127 bytes
-2023/12/24-12:07:16.833 615 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/12/24-12:07:16.833 615 Delete type=2 #24
-2023/12/24-12:07:16.834 615 Delete type=2 #27

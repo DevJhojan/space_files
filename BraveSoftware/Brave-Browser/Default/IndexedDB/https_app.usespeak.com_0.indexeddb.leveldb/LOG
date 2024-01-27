@@ -1,7 +1,0 @@
-2023/12/30-11:22:54.840 368b Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.usespeak.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/12/30-11:22:54.840 368b Recovering log #3
-2023/12/30-11:22:54.854 368b Reusing old log /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.usespeak.com_0.indexeddb.leveldb/000003.log 
-2023/12/30-14:59:05.770 368a Level-0 table #5: started
-2023/12/30-14:59:06.019 368a Level-0 table #5: 1544 bytes OK
-2023/12/30-14:59:06.308 368a Delete type=0 #3
-2023/12/30-14:59:06.308 368a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

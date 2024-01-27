@@ -1,6 +1,0 @@
-2024/01/10-20:19:17.334 36826 Creating DB /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.miamiherald.com_0.indexeddb.leveldb since it was missing.
-2024/01/10-20:19:17.582 36826 Reusing MANIFEST /home/devdragon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.miamiherald.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/01/10-20:19:20.082 3682f Level-0 table #5: started
-2024/01/10-20:19:20.225 3682f Level-0 table #5: 430 bytes OK
-2024/01/10-20:19:20.304 3682f Delete type=0 #3
-2024/01/10-20:19:20.304 36828 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
