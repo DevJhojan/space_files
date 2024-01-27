@@ -52,7 +52,7 @@ keys = [Key(key[0], key[1], *key[2:]) for key in [
     # ------------ App Configs ------------
 
     # Menu
-    ([mod], "r", lazy.spawn(menu)),
+    ([mod],"r", lazy.spawn(menu)),
 
     # Browser
     ([mod], "b", lazy.spawn(browser), lazy.bar["3"]),
