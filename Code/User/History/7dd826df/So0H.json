@@ -85,5 +85,6 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "glassit.alpha": 195,
-  "git.openRepositoryInParentFolders": "never"
+  "git.openRepositoryInParentFolders": "never",
+  "files.autoSave": "afterDelay"
 }
