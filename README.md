@@ -1,4 +1,4 @@
 # Mi configuración de Qtile
 
-![Alt text](qtile/img/configuration.png)
+![Alt text](qtile/img/spacejob.png)
 
